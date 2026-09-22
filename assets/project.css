@@ -50,3 +50,4 @@
 .detail-bottom .repo-button{background:#183b58;color:#fff}
 .detail-bottom .back-button{background:#fff;border:1px solid #dce5ed;color:#3d617c}
 @media(max-width:760px){.detail-wrap{width:min(100% - 34px,1100px)}.detail-hero{padding:53px 0 65px}.detail-hero p{font-size:13px}.detail-layout{display:block}.detail-toc{position:static;display:flex;overflow-x:auto;white-space:nowrap;margin-bottom:18px}.detail-toc strong{display:none}.detail-section{padding:23px}.detail-columns{grid-template-columns:1fr}.stage-list{gap:5px}.stage b{font-size:11px}.stage small{font-size:9px}}
+.detail-section p,.detail-section ul,.detail-section ol{font-size:13px}
