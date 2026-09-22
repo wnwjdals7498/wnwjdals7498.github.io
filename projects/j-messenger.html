@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="메일 서버별 사용자 경계를 둔 Node 메신저를 설계하고 메시지 전달·재접속·보존 정책을 낮은 서버 사양에서 검증할 계획입니다.">
+  <title>메신저 안정성 실습 · wnwjdals7498</title>
+  <link rel="stylesheet" href="../assets/site.css">
+  <link rel="stylesheet" href="../assets/project.css">
+</head>
+<body>
+  <div class="detail-dark"><div class="detail-wrap">
+    <header class="detail-header"><a class="home-link" href="../index.html"><span class="home-mark">W</span>wnwjdals7498</a><a class="github-link" href="https://github.com/wnwjdals7498/j-messenger" target="_blank" rel="noopener noreferrer">GitHub 저장소 ↗</a></header>
+    <section class="detail-hero" aria-labelledby="project-title"><div class="detail-kicker">PROJECT / 04 · PERSONAL LAB</div><h1 id="project-title">메신저 안정성 실습</h1><p>메일 서버별 사용자 경계를 둔 Node 메신저를 설계하고 메시지 전달·재접속·보존 정책을 낮은 서버 사양에서 검증할 계획입니다.</p><span class="status">계획 단계</span><div class="detail-tags"><span>Node.js</span><span>Rocky Linux</span><span>Windows</span><span>Android</span><span>Web</span></div></section>
+  </div></div>
+  <main class="detail-body"><div class="detail-wrap detail-layout">
+    <nav class="detail-toc" aria-label="페이지 목차"><strong>ON THIS PAGE</strong><a href="#status">현재 상태</a><a href="#overview">배경과 역할</a><a href="#scope">계획 범위</a><a href="#steps">첫 단계</a><a href="#verification">검증</a></nav>
+    <div class="detail-content">
+      <section class="detail-status" id="status"><div class="detail-status-top"><div><h2>현재 상태: 계획</h2><p>구현과 검증 결과가 생기면 근거를 확인한 뒤 상태를 갱신합니다.</p></div><span class="status">PLANNED</span></div><div class="stage-list"><div class="stage current"><b>01 · 계획</b><small>범위와 완료 기준 정리</small></div><div class="stage"><b>02 · 구현</b><small>실제 동작과 코드 기록</small></div><div class="stage"><b>03 · 검증</b><small>재현 가능한 결과 공개</small></div></div></section>
+      <section class="detail-section" id="overview"><div class="eyebrow">Background & Role</div><h2>배경과 맡을 일</h2><p>중앙 서버와 세 클라이언트에서 개인·단체 대화, 파일, 읽음 상태를 제공하고 연결 장애와 데이터 보존을 실험합니다.</p><p><strong>개인 역할:</strong> 인증 경계, 통신·저장 구조, 클라이언트 동작과 안정성 검증 방법을 설계하고 구현할 계획입니다.</p></section>
+      <section class="detail-section" id="scope"><div class="eyebrow">Planned Scope</div><h2>계획한 범위</h2><ul><li>메일 서버 주소·계정 인증과 서버별 사용자 경계</li><li>Windows·Android·Web의 대화·파일·읽음 기능</li><li>관리자 보존 기간과 만료 자료 삭제</li><li>재접속·서버 재시작·메시지 유실·중복·순서 검증</li></ul></section>
+      <div class="detail-columns"><section class="detail-section" id="steps"><div class="eyebrow">First Steps</div><h2>첫 실행 단계</h2><ol><li>대상 메일 서버 공식 인증·관리 API와 테스트 환경 확인</li><li>실시간 통신·저장 방식 결정</li><li>같은 서버 사용자 사이의 첫 대화 흐름 구현</li></ol></section><section class="detail-section" id="verification"><div class="eyebrow">Verification Plan</div><h2>검증할 내용</h2><ul><li>다른 메일 서버 사용자 간 대화 차단 확인</li><li>재접속·서버 재시작 후 메시지 상태 비교</li><li>동일 VM 사양에서 처리량·지연·오류·자원 사용량 기록</li></ul></section></div>
+      <div class="detail-callout"><strong>출처와 실습 범위</strong><p>관리포털·인프라 실습과 독립된 개인 학습 프로젝트입니다. 회사 원본 자료를 사용하지 않습니다.</p><p>Android·Windows 앱 종료 상태 알림 방식은 플랫폼 제약을 조사한 뒤 결정합니다. 사설망 밖 접속과 Web 알림은 현재 범위에 포함하지 않습니다.</p></div>
+      <div class="detail-empty"><strong>공개할 검증 결과는 아직 없습니다.</strong><p>실제 구현과 시험을 마친 뒤 환경·방법·결과·한계를 기록합니다.</p></div>
+      <div class="detail-bottom"><a class="repo-button" href="https://github.com/wnwjdals7498/j-messenger" target="_blank" rel="noopener noreferrer">GitHub 저장소 보기 ↗</a><a class="back-button" href="../index.html#projects">전체 프로젝트로 돌아가기</a></div>
+    </div>
+  </div></main>
+  <footer class="footer"><div class="detail-wrap footer-inner"><div><strong>wnwjdals7498</strong><p>계획·구현·검증 상태를 구분해 기록합니다.</p></div><a href="https://github.com/wnwjdals7498" target="_blank" rel="noopener noreferrer">GitHub 프로필 ↗</a></div></footer>
+</body>
+</html>

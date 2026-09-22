@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="PHP 포털에서 VM 공통 기능과 계약을 검증한 뒤 같은 요구사항을 Node 기반으로 다시 구현하고 결과를 비교할 계획입니다.">
+  <title>Node 관리포털 · wnwjdals7498</title>
+  <link rel="stylesheet" href="../assets/site.css">
+  <link rel="stylesheet" href="../assets/project.css">
+</head>
+<body>
+  <div class="detail-dark"><div class="detail-wrap">
+    <header class="detail-header"><a class="home-link" href="../index.html"><span class="home-mark">W</span>wnwjdals7498</a><a class="github-link" href="https://github.com/wnwjdals7498/node-hosting-and-appbuild" target="_blank" rel="noopener noreferrer">GitHub 저장소 ↗</a></header>
+    <section class="detail-hero" aria-labelledby="project-title"><div class="detail-kicker">PROJECT / 03 · PERSONAL LAB</div><h1 id="project-title">Node 관리포털</h1><p>PHP 포털에서 VM 공통 기능과 계약을 검증한 뒤 같은 요구사항을 Node 기반으로 다시 구현하고 결과를 비교할 계획입니다.</p><span class="status">계획 단계</span><div class="detail-tags"><span>Node.js</span><span>API 계약</span><span>VM 포털</span><span>비교 검증</span></div></section>
+  </div></div>
+  <main class="detail-body"><div class="detail-wrap detail-layout">
+    <nav class="detail-toc" aria-label="페이지 목차"><strong>ON THIS PAGE</strong><a href="#status">현재 상태</a><a href="#overview">배경과 역할</a><a href="#scope">계획 범위</a><a href="#steps">첫 단계</a><a href="#verification">검증</a></nav>
+    <div class="detail-content">
+      <section class="detail-status" id="status"><div class="detail-status-top"><div><h2>현재 상태: 계획</h2><p>구현과 검증 결과가 생기면 근거를 확인한 뒤 상태를 갱신합니다.</p></div><span class="status">PLANNED</span></div><div class="stage-list"><div class="stage current"><b>01 · 계획</b><small>범위와 완료 기준 정리</small></div><div class="stage"><b>02 · 구현</b><small>실제 동작과 코드 기록</small></div><div class="stage"><b>03 · 검증</b><small>재현 가능한 결과 공개</small></div></div></section>
+      <section class="detail-section" id="overview"><div class="eyebrow">Background & Role</div><h2>배경과 맡을 일</h2><p>두 기술 스택에서 같은 VM 관리 요구사항을 구현해 API 응답, 권한, 청구와 실패 처리를 같은 시나리오로 비교합니다.</p><p><strong>개인 역할:</strong> PHP 구현에서 확정된 계약과 테스트 데이터를 바탕으로 Node 포털을 설계·구현하고 차이를 검증할 계획입니다.</p></section>
+      <section class="detail-section" id="scope"><div class="eyebrow">Planned Scope</div><h2>계획한 범위</h2><ul><li>회원·관리자 권한과 VM 신청·조작</li><li>월별 청구, 알림과 조건부 테스트 결제 범위</li><li>공통 DB 스키마·API 계약·테스트 시나리오 비교</li><li>기존 yml-sha512 파일의 보존 확인 후 이전</li></ul></section>
+      <div class="detail-columns"><section class="detail-section" id="steps"><div class="eyebrow">First Steps</div><h2>첫 실행 단계</h2><ol><li>PHP 포털의 공통 기능·계약 검증을 기다림</li><li>각 erp-* 폴더의 책임과 기술 결정</li><li>같은 예제 데이터로 첫 기능을 재현</li></ol></section><section class="detail-section" id="verification"><div class="eyebrow">Verification Plan</div><h2>검증할 내용</h2><ul><li>PHP와 Node의 API·권한·청구 결과 비교</li><li>실패 처리와 작업 상태의 일관성 확인</li><li>이전 파일의 새 원격 보존 여부 확인</li></ul></section></div>
+      <div class="detail-callout"><strong>출처와 실습 범위</strong><p>개인 환경에서 새로 만드는 비교 구현입니다. 회사 원본 코드와 데이터를 사용하지 않습니다.</p><p>PHP 포털 검증이 선행 조건입니다. 통합 저장소의 Linux Galera·VPC 제어 화면은 현재 Node 재구현 범위에 포함하지 않습니다.</p></div>
+      <div class="detail-empty"><strong>공개할 검증 결과는 아직 없습니다.</strong><p>실제 구현과 시험을 마친 뒤 환경·방법·결과·한계를 기록합니다.</p></div>
+      <div class="detail-bottom"><a class="repo-button" href="https://github.com/wnwjdals7498/node-hosting-and-appbuild" target="_blank" rel="noopener noreferrer">GitHub 저장소 보기 ↗</a><a class="back-button" href="../index.html#projects">전체 프로젝트로 돌아가기</a></div>
+    </div>
+  </div></main>
+  <footer class="footer"><div class="detail-wrap footer-inner"><div><strong>wnwjdals7498</strong><p>계획·구현·검증 상태를 구분해 기록합니다.</p></div><a href="https://github.com/wnwjdals7498" target="_blank" rel="noopener noreferrer">GitHub 프로필 ↗</a></div></footer>
+</body>
+</html>
