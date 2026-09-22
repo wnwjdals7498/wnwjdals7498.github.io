@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="PHP·CodeIgniter 기반 VM 관리포털과 Rocky Linux 인프라 실습을 하나의 저장소에서 설계합니다. 포털의 요청과 실제 인프라 작업 결과를 구분해 검증할 계획입니다.">
+  <meta name="description" content="PHP·CodeIgniter 기반 VM 관리포털과 Rocky Linux 인프라 실습을 한 프로젝트로 설계할 계획입니다. 포털의 요청과 실제 인프라 작업 결과를 구분해 검증할 계획입니다.">
   <title>클라우드 관리포털 + Linux IaaS · wnwjdals7498</title>
   <link rel="stylesheet" href="../assets/site.css?v=2">
   <link rel="stylesheet" href="../assets/project.css?v=2">
@@ -11,13 +11,13 @@
 <body>
   <div class="detail-dark"><div class="detail-wrap">
     <header class="detail-header"><a class="home-link" href="../index.html"><span class="home-mark">W</span>wnwjdals7498</a><a class="github-link" href="https://github.com/wnwjdals7498/cloud-management-portal-lab" target="_blank" rel="noopener noreferrer">GitHub 저장소 ↗</a></header>
-    <section class="detail-hero" aria-labelledby="project-title"><div class="detail-kicker">PROJECT / 01 · PERSONAL LAB</div><h1 id="project-title">클라우드 관리포털 + Linux IaaS</h1><p>PHP·CodeIgniter 기반 VM 관리포털과 Rocky Linux 인프라 실습을 하나의 저장소에서 설계합니다. 포털의 요청과 실제 인프라 작업 결과를 구분해 검증할 계획입니다.</p><span class="status">계획 단계</span><div class="detail-tags"><span>PHP</span><span>CodeIgniter</span><span>MySQL</span><span>Hyper-V</span><span>Rocky Linux</span><span>MariaDB</span></div></section>
+    <section class="detail-hero" aria-labelledby="project-title"><div class="detail-kicker">PROJECT / 01 · PERSONAL LAB</div><h1 id="project-title">클라우드 관리포털 + Linux IaaS</h1><p>PHP·CodeIgniter 기반 VM 관리포털과 Rocky Linux 인프라 실습을 한 프로젝트로 설계할 계획입니다. 포털의 요청과 실제 인프라 작업 결과를 구분해 검증할 계획입니다.</p><span class="status">계획 단계</span><div class="detail-tags"><span>PHP</span><span>CodeIgniter</span><span>MySQL</span><span>Hyper-V</span><span>Rocky Linux</span><span>MariaDB</span></div></section>
   </div></div>
   <main class="detail-body"><div class="detail-wrap detail-layout">
     <nav class="detail-toc" aria-label="페이지 목차"><strong>ON THIS PAGE</strong><a href="#status">현재 상태</a><a href="#overview">배경과 역할</a><a href="#scope">계획 범위</a><a href="#steps">첫 단계</a><a href="#verification">검증</a></nav>
     <div class="detail-content">
       <section class="detail-status" id="status"><div class="detail-status-top"><div><h2>현재 상태: 계획</h2><p>구현과 검증 결과가 생기면 근거를 확인한 뒤 상태를 갱신합니다.</p></div><span class="status">PLANNED</span></div><div class="stage-list"><div class="stage current"><b>01 · 계획</b><small>범위와 완료 기준 정리</small></div><div class="stage"><b>02 · 구현</b><small>실제 동작과 코드 기록</small></div><div class="stage"><b>03 · 검증</b><small>재현 가능한 결과 공개</small></div></div></section>
-      <section class="detail-section" id="overview"><div class="eyebrow">Background & Role</div><h2>배경과 맡을 일</h2><p>클라우드 자원 신청부터 실제 VM 작업, 사용 기간에 따른 청구까지의 흐름을 개인 환경에서 재현합니다. Linux 고가용성·네트워크 실습도 같은 저장소에서 관리합니다.</p><p><strong>개인 역할:</strong> 요구사항·권한·API 계약을 설계하고 포털, 작업 추적, 인프라 실습과 검증 기록을 직접 구축할 계획입니다.</p></section>
+      <section class="detail-section" id="overview"><div class="eyebrow">Background & Role</div><h2>배경과 맡을 일</h2><p>클라우드 자원 신청부터 실제 VM 작업, 사용 기간에 따른 청구까지의 흐름을 개인 환경에서 재현할 계획입니다. Linux 고가용성·네트워크 실습도 같은 프로젝트의 범위로 정했습니다.</p><p><strong>개인 역할:</strong> 요구사항·권한·API 계약을 설계하고 포털, 작업 추적, 인프라 실습과 검증 기록을 직접 구축할 계획입니다.</p></section>
       <section class="detail-section" id="scope"><div class="eyebrow">Planned Scope</div><h2>계획한 범위</h2><ul><li>회원·관리자 역할과 VM 신청·조회·조작</li><li>신청 직후 Hyper-V VM 생성 작업 시작 및 상태 추적</li><li>실제 사양·사용 기간과 사양 변경 이력을 반영한 가상 청구</li><li>Rocky Linux의 MariaDB Galera, Nginx·Keepalived, VPC 구축 및 제어</li></ul></section>
       <div class="detail-columns"><section class="detail-section" id="steps"><div class="eyebrow">First Steps</div><h2>첫 실행 단계</h2><ol><li>실행 환경과 공식 지원 버전 확인</li><li>VM 요청·작업 상태·청구 데이터 계약 정의</li><li>테스트 VM 한 대를 만드는 첫 흐름 구현</li></ol></section><section class="detail-section" id="verification"><div class="eyebrow">Verification Plan</div><h2>검증할 내용</h2><ul><li>회원은 본인 VM만 조작하고 관리자는 전체 VM을 관리하는지 확인</li><li>포털 작업 상태가 실제 Hyper-V VM 상태와 일치하는지 확인</li><li>Galera 노드 장애·재합류, 접근 경로, VPC 네트워크 동작 검증</li></ul></section></div>
       <div class="detail-callout"><strong>출처와 실습 범위</strong><p>회사에서 경험한 관리포털 업무를 개인 환경에서 새로 재현하는 프로젝트입니다. 회사 원본 코드·화면·데이터는 사용하지 않습니다.</p><p>현재는 계획 단계입니다. VM 생성·청구·장애 시험을 실행하지 않았습니다. 모든 VM이 한 물리 호스트에 있다면 물리 호스트 장애 내성을 입증한 것으로 표현하지 않습니다.</p></div>
