@@ -2,9 +2,23 @@
   "category": "tech",
   "board": "기술 뉴스",
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T15:18:04+09:00",
+  "generated_at": "2026-11-04T17:00:01+09:00",
   "first_generated_at": "2026-11-04T15:18:04+09:00",
   "items": [
+    {
+      "id": "4d84630cc3d848d0",
+      "title_ko": "아비바·한국해양대, 디지털 트윈 기반 인재양성 맞손",
+      "summary_ko": "아비바 아카데믹 프로그램 기반 교육과정 개발·공동 연구 MOU 체결",
+      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=215608",
+      "source": "datanet",
+      "source_name": "데이터넷",
+      "published_at": "2026-11-04T16:47:23+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-04T16:47:23+09:00"
+    },
     {
       "id": "0886edcb7bca1cef",
       "title_ko": "창립 18주년 ‘HNIX’, ‘Hyundai Nexus’로 CI 재정립 ··· ‘AI·디지털 가치 연결 허브’ 도약",
