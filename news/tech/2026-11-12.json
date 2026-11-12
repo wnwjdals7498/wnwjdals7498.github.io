@@ -1,0 +1,324 @@
+{
+  "category": "tech",
+  "board": "기술 뉴스",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T12:56:38+09:00",
+  "first_generated_at": "2026-11-12T12:56:38+09:00",
+  "items": [
+    {
+      "id": "7d083511db3c2197",
+      "title_ko": "x86-64 PC용 범용 Apple Silicon 레이어",
+      "summary_ko": "tylertms가 GitHub에 Stela 프로젝트 공개, x86-64 PC 대상",
+      "url": "https://github.com/tylertms/Stela",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-12T08:02:38+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50460154",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-12T08:02:38+09:00"
+    },
+    {
+      "id": "32af75a9e3156d39",
+      "title_ko": "페인트 얼룩의 93%는 유효한 Perl 프로그램 (2019)",
+      "summary_ko": "벽에 페인트를 칠하면 Perl이 만들어지는지 묻는 논문과 예시 갤러리 공개",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-12T07:34:23+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50459745",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "94878c0b69074a97",
+          "title_ko": "페인트 얼룩의 93%는 유효한 Perl 프로그램이다 (2019)",
+          "url": "https://news.hada.io/topic?id=37029",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-12T07:34:23+09:00"
+    },
+    {
+      "id": "d05830646ed0694b",
+      "title_ko": "마법의 시대의 Emacs",
+      "summary_ko": "AI 시대에 Emacs를 어떻게 쓸지 다룬 글",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-12T05:26:32+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50458208",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-12T05:26:32+09:00"
+    },
+    {
+      "id": "2b4b8e267f973e38",
+      "title_ko": "IBM Quantum Nighthawk, 속도와 품질 향상 시연",
+      "summary_ko": "IBM, 520큐비트로 양자 연산 1만 회를 수행할 Nighthawk r3 발표",
+      "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-12T04:47:59+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50457669",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-12T04:47:59+09:00"
+    },
+    {
+      "id": "42ad06b7df0adc75",
+      "title_ko": "The Utah Teapot",
+      "summary_ko": "컴퓨터 그래픽스의 상징적 3D 모델 유타 티포트를 소개하는 글",
+      "url": "https://graphics.cs.utah.edu/teapot/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-12T04:45:10+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50457618",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-12T04:45:10+09:00"
+    },
+    {
+      "id": "57483bacacb06e5e",
+      "title_ko": "Show HN: Papers Please를 재현했지만 투자할 YC 스타트업을 고르는 게임",
+      "summary_ko": "YC 창업자의 재무와 기록을 검토해 투자 대상을 정하는 웹 게임",
+      "url": "https://termsheetplease.com/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-12T04:12:16+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50457230",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "65afbede4bb3fe09",
+          "title_ko": "Show HN: 투자할 YC 스타트업을 결정하는 게임으로 Papers, Please를 재현함",
+          "url": "https://news.hada.io/topic?id=37027",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-12T04:12:16+09:00"
+    },
+    {
+      "id": "70a69d3bb5822802",
+      "title_ko": "AWS, 마침내 자체 AWS 에뮬레이터 제작",
+      "summary_ko": "AWS API를 로컬에서 실행하는 aws-emulator를 GitHub에 공개",
+      "url": "https://github.com/aws/aws-emulator",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-12T03:21:38+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50456631",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "c5781649a4d6d5f1",
+          "title_ko": "AWS가 마침내 자체 AWS 에뮬레이터를 만들었다",
+          "url": "https://news.hada.io/topic?id=37001",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-12T03:21:38+09:00"
+    },
+    {
+      "id": "b8e33e17317c667c",
+      "title_ko": "오작동 화재 경보로 Jane Street의 유일한 뉴욕 데이터센터가 침수 위기",
+      "summary_ko": "냉각이 끊긴 데이터센터에서 스프링클러 작동 전 전원 코드를 모두 뽑은 사례",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-12T01:38:44+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50455394",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "efbcf75936f2420f",
+          "title_ko": "연기 감지기 오작동으로 Jane Street의 유일한 뉴욕 데이터센터가 물바다가 될 뻔한 사건",
+          "url": "https://news.hada.io/topic?id=37000",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-12T01:38:44+09:00"
+    },
+    {
+      "id": "8577b206c4472fd5",
+      "title_ko": "Reddit 이주가 Lemmy에 미친 영향 (2023)",
+      "summary_ko": "이주 전후 댓글 48,272건 감성 분석으로 가입 급증과 중앙집중 경향 확인",
+      "url": "https://www.jmis.org/archive/view_article?pid=jmis-10-4-333",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-12T01:35:38+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50455358",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-12T01:35:38+09:00"
+    },
+    {
+      "id": "4cc1960e3b74eb4e",
+      "title_ko": "컴퓨터 그래픽스 지식 대전",
+      "summary_ko": "컴퓨터 그래픽스 관련 지식을 모아 정리한 자료",
+      "url": "https://www.cs.cmu.edu/~ph/nyit/masson/history.htm",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-12T00:50:02+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50454823",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-12T00:50:02+09:00"
+    },
+    {
+      "id": "4094c0e884d31331",
+      "title_ko": "WebAssembly로 브라우저에서 실행하는 Pharo",
+      "summary_ko": "Smalltalk 환경 Pharo를 WebAssembly 기반으로 브라우저에서 구동",
+      "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-11T23:21:27+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50453763",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-11T23:21:27+09:00"
+    },
+    {
+      "id": "6d41d763cffcca94",
+      "title_ko": "Apple, 다음 주 Support Community 포럼 종료",
+      "summary_ko": "Apple Support Community가 읽기 전용으로 전환, 11월 20일 영구 폐쇄",
+      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-11T23:02:11+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50453555",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "fcd15e860a9b3bfb",
+          "title_ko": "Apple, 다음 주 Support Community 포럼 폐쇄",
+          "url": "https://news.hada.io/topic?id=36997",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-11T23:02:11+09:00"
+    },
+    {
+      "id": "d584bdd46b8662f0",
+      "title_ko": "WebGL2로 구현한 초현실적 모래",
+      "summary_ko": "WebGL2와 JavaScript 모래 시뮬레이션, 드래그·기울이기·흔들기 조작 지원",
+      "url": "https://av.github.io/safe-sand/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-11T22:39:29+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50453288",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-11T22:39:29+09:00"
+    },
+    {
+      "id": "d4125130139b747f",
+      "title_ko": "Show HN: Neovim용 플로팅 창 Godbolt (C, C++, Rust)",
+      "summary_ko": "로컬 컴파일러로 어셈블리를 생성해 인터넷 연결 없이 사용 가능",
+      "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-11T22:34:24+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50453229",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-11T22:34:24+09:00"
+    },
+    {
+      "id": "488f8483b8c12d1f",
+      "title_ko": "EventSourcingDB 1.3.0 출시",
+      "summary_ko": "쓰기·EventQL 쿼리 속도 개선, 60여 건 수정, 오류 코드 체계의 새 API 추가",
+      "url": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-11T22:19:45+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50453080",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-11T22:19:45+09:00"
+    },
+    {
+      "id": "cce136752d03dbbf",
+      "title_ko": "Zig 프로젝트는 제자리걸음 중",
+      "summary_ko": "Zig 언어는 발전하지만 운영진 방침이 실사용자에게 불리하다는 비판",
+      "url": "https://bytecode.news/posts/2026/10/the-zig-project-is-going-nowhere",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-11T20:17:06+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50452074",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-11T20:17:06+09:00"
+    },
+    {
+      "id": "091650a4bf79a32f",
+      "title_ko": "macOS용 Process Explorer",
+      "summary_ko": "Swift 기반 네이티브 앱, 프로세스 트리·TCP/IP 연결·코드 서명 확인 제공",
+      "url": "https://news.hada.io/topic?id=36980",
+      "source": "geeknews",
+      "source_name": "GeekNews",
+      "published_at": "2026-11-11T16:33:03+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-11T16:33:03+09:00"
+    },
+    {
+      "id": "7bd2c60903fcb3df",
+      "title_ko": "Greg Kurtzer의 Ginux, 이제 유저스페이스 커널",
+      "summary_ko": "GitHub gmkurtzer/ginux 저장소에서 개발 진행, 기여 가능",
+      "url": "https://github.com/gmkurtzer/ginux",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-11T14:25:54+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50450007",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-11T14:25:54+09:00"
+    },
+    {
+      "id": "2855a6dd0b52b57a",
+      "title_ko": "Show HN: Black Ops II를 네이티브 ARM64 macOS용으로 정적 재컴파일",
+      "summary_ko": "Claude Opus 5.5로 만든 변환 도구, 에뮬레이터 없이 거의 60fps 구동",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-11T13:56:47+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50449891",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-11T13:56:47+09:00"
+    },
+    {
+      "id": "70d4acf360671181",
+      "title_ko": "Announcing .NET 11",
+      "summary_ko": "Microsoft가 .NET 11 신기능을 정리한 문서 공개",
+      "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-11T01:01:27+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50442225",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-11T01:01:27+09:00"
+    }
+  ]
+}
