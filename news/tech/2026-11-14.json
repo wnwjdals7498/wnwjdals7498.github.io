@@ -1,0 +1,341 @@
+{
+  "category": "tech",
+  "board": "기술 뉴스",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T12:55:36+09:00",
+  "first_generated_at": "2026-11-14T12:55:36+09:00",
+  "items": [
+    {
+      "id": "d25e210f3f7b1fa6",
+      "title_ko": "셀을 차지하지 않는 터미널 테두리",
+      "summary_ko": "행·열을 쓰지 않는 얇은 선 프로토콜, Ghostty 지원·Ratatui 데모",
+      "url": "https://www.joshka.net/cell-borders/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T08:06:40+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50491423",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T08:06:40+09:00"
+    },
+    {
+      "id": "117b7aeaaeee9acb",
+      "title_ko": "KORS 전 주파수 항공 무선 실시간 중계, 빅토리아도 지상 정지",
+      "summary_ko": "워싱턴주 오르카스섬에서 수신한 항공 무선을 실시간 전사·보관",
+      "url": "https://orcasairband.com/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T07:04:24+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50490593",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T07:04:24+09:00"
+    },
+    {
+      "id": "9c247e0875927c87",
+      "title_ko": "FAA, 전국 지상 정지 발령",
+      "summary_ko": "미국 전역 항공편 출발 중단 조치, 뉴욕타임스가 실시간 보도",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T06:05:53+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50489641",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "a99b67c91f9fefc7",
+          "title_ko": "미국 전 공항 현재 항공기 지상 정지",
+          "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+          "source_name": "Hacker News 1면"
+        },
+        {
+          "id": "729635c933e3da18",
+          "title_ko": "FAA, \"비상 상황\"으로 전국 항공기 지상 정지 발령",
+          "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+          "source_name": "Hacker News 1면"
+        },
+        {
+          "id": "0fbf2256f24b64e1",
+          "title_ko": "美 전역 항공기 운항 마비… “관제통신 오류, 해킹 징후는 발견 안돼”",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147262",
+          "source_name": "보안뉴스"
+        },
+        {
+          "id": "18713f91f2958739",
+          "title_ko": "FAA 전국 지상 정지 중 Amtrak 예약 시스템 대규모 장애",
+          "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+          "source_name": "Hacker News 1면"
+        }
+      ],
+      "ref_time": "2026-11-14T06:05:53+09:00"
+    },
+    {
+      "id": "326c642066101046",
+      "title_ko": "빅테크는 우리를 실망시키러 온 존재",
+      "summary_ko": "필자가 Nvidia 논란을 언급하며 빅테크에 대한 실망을 토로",
+      "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T05:20:30+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50489083",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T05:20:30+09:00"
+    },
+    {
+      "id": "504572814b78bd29",
+      "title_ko": "FreeBSD bhyve, 라이브 마이그레이션 지원 예정",
+      "summary_ko": "FreeBSD 15.1 대상 사전 복사 메모리 전송·더티 페이지 추적, 한계 정리",
+      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T04:58:42+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50488835",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T04:58:42+09:00"
+    },
+    {
+      "id": "b99b3bf0ad66bc14",
+      "title_ko": "염증 없이 노화를 일으키는 단백질 발견",
+      "summary_ko": "granzyme K 제거 노화 쥐에서 심장·간 기능 개선, 신장 손상 감소",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T04:25:21+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50488470",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T04:25:21+09:00"
+    },
+    {
+      "id": "9ce677af608292ed",
+      "title_ko": "FM-1 Workbench",
+      "summary_ko": "FM-1 Workbench 공개 소개",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T04:14:02+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50488325",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T04:14:02+09:00"
+    },
+    {
+      "id": "406adb72e8949f5d",
+      "title_ko": "CA에서 TX로 운송 중 1,140만 달러 상당 Nvidia 하드웨어 증발",
+      "summary_ko": "오클랜드 경찰이 중대 절도 수사 착수, 운송업체와 경위는 불명",
+      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T03:40:44+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50487864",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "862722e344a2c91f",
+          "title_ko": "1,140만 달러 규모 NVIDIA 하드웨어, 캘리포니아에서 텍사스로 운송 중 사라져",
+          "url": "https://news.hada.io/topic?id=37129",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-14T03:40:44+09:00"
+    },
+    {
+      "id": "50f24fdcda9de9e0",
+      "title_ko": "학생이 iPad에서 PowerPoint를 열려면 16번 클릭해야 한다",
+      "summary_ko": "iPad에서 PowerPoint 파일을 열기까지의 복잡한 절차 지적",
+      "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T03:18:37+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50487522",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T03:18:37+09:00"
+    },
+    {
+      "id": "d6b5bcff4d0c42ed",
+      "title_ko": "\"LibreOffice는 1년 365일 작동합니다. 그냥 말해봅니다.\"",
+      "summary_ko": "LibreOffice가 연중 내내 동작한다는 점을 짚은 게시물",
+      "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T02:09:58+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50486482",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T02:09:58+09:00"
+    },
+    {
+      "id": "7b29a5343a4a5a3d",
+      "title_ko": "EU 디지털 신원 지갑 도입 현황: 전 회원국 한눈에",
+      "summary_ko": "EU 회원국별 디지털 신원 지갑 도입 상황을 한 보드에 정리",
+      "url": "https://myid.ie/business/eu-digital-wallet-tracker/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T23:58:07+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50484496",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T23:58:07+09:00"
+    },
+    {
+      "id": "86b7f002df789e63",
+      "title_ko": "Haskell 생태계를 위한 기술 비전",
+      "summary_ko": "Haskell Foundation 기술 리더십 위원회 출범, 기업·기여자 참여 요청",
+      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T23:43:12+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50484235",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "925c0a4f3467390a",
+          "title_ko": "Haskell 생태계를 위한 기술 비전",
+          "url": "https://news.hada.io/topic?id=37132",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-13T23:43:12+09:00"
+    },
+    {
+      "id": "4f31dbe9014ddf9a",
+      "title_ko": "Lonewolf 0.3 – Rust로 작성된 독립형 XMPP 서버",
+      "summary_ko": "인증서 기반 연합·직접 TLS 추가, 1.0 이전 단일 노드 서버",
+      "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T23:28:40+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50484007",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T23:28:40+09:00"
+    },
+    {
+      "id": "87c4205595694d85",
+      "title_ko": "CERN, 대형 하드론 충돌기의 차세대 자석 제작",
+      "summary_ko": "새 소재·공정으로 11.3 테슬라 초전도 자석 구현",
+      "url": "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T23:25:46+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50483959",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T23:25:46+09:00"
+    },
+    {
+      "id": "9a966f6634837b5f",
+      "title_ko": "시스템 프로그래밍에 C 대신 Zig를 쓰는 이유",
+      "summary_ko": "C에서 시간을 잡아먹던 부분을 Zig가 다루는 방식, Zig 0.17 기준 비교",
+      "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T23:01:13+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50483611",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T23:01:13+09:00"
+    },
+    {
+      "id": "36cc0efaacaa085b",
+      "title_ko": "미국 시험용 원자로, 운영 승인",
+      "summary_ko": "에너지부, Oklo Groves 동위원소 시험로 제한 없는 운영 승인",
+      "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T22:54:49+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50483533",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T22:54:49+09:00"
+    },
+    {
+      "id": "35eb1824f5c6cbfa",
+      "title_ko": "Microsoft 전 세계 서비스 장애",
+      "summary_ko": "Microsoft 서비스가 전 세계적으로 중단된 장애 발생",
+      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T15:18:23+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50479098",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "366d011100367fee",
+          "title_ko": "Microsoft 장애, 고객에게 Redmond 의존의 현실을 일깨우다",
+          "url": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
+          "source_name": "Hacker News 1면"
+        },
+        {
+          "id": "a9da41cdba40867b",
+          "title_ko": "MS, 전 세계 서비스 장애 복구 진전...\"원인은 네트워크 작업 오류\"",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217398",
+          "source_name": "AI타임스"
+        }
+      ],
+      "ref_time": "2026-11-13T15:18:23+09:00"
+    },
+    {
+      "id": "73352638f5e0509a",
+      "title_ko": "과학자들, 우주 나이가 믿어온 것의 두 배라고 주장",
+      "summary_ko": "오타와대 연구, 우주 나이 267억 년 추정, 암흑물질·암흑에너지 불필요",
+      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T14:13:30+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50478635",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T14:13:30+09:00"
+    },
+    {
+      "id": "726f9b131488483c",
+      "title_ko": "IceWM",
+      "summary_ko": "경량 윈도 매니저 IceWM 소개",
+      "url": "https://ice-wm.org/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T13:54:53+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50478515",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T13:54:53+09:00"
+    },
+    {
+      "id": "fae05173140c8cb0",
+      "title_ko": "Coway 공기청정기 리버스 엔지니어링으로 클라우드 의존 탈피",
+      "summary_ko": "2017년 산불 계기로 구입한 Coway Airmega를 분석해 클라우드 없이 제어",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T07:03:09+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50474959",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T07:03:09+09:00"
+    }
+  ]
+}
