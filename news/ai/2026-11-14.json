@@ -1,0 +1,329 @@
+{
+  "category": "ai",
+  "board": "AI 뉴스",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T12:54:09+09:00",
+  "first_generated_at": "2026-11-14T12:54:09+09:00",
+  "items": [
+    {
+      "id": "eba08bcceff32228",
+      "title_ko": "개발자들이 더 이상 질문하지 않는다면",
+      "summary_ko": "스택오버플로 월 신규 질문 20만 건에서 964개로 감소, 주간 프로덕트 소식 3건 정리",
+      "url": "https://yozm.wishket.com/magazine/detail/4029",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "published_at": "2026-11-06T09:00:17+09:00",
+      "discussion_url": null,
+      "reminder": true,
+      "first_posted_at": "2026-11-07T12:00:01+09:00",
+      "related": [],
+      "ref_time": "2026-11-14T12:00:01+09:00"
+    },
+    {
+      "id": "a39cd015866de73b",
+      "title_ko": "AI. vs 사람 맡길 일 고르는 기준 4가지",
+      "summary_ko": "아홉 명의 사례 분석, 오류 비용 기준 AI·사람 업무 분담 4가지 정리",
+      "url": "https://yozm.wishket.com/magazine/detail/4032",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "published_at": "2026-11-06T14:00:17+09:00",
+      "discussion_url": null,
+      "reminder": true,
+      "first_posted_at": "2026-11-07T12:00:01+09:00",
+      "related": [],
+      "ref_time": "2026-11-14T12:00:01+09:00"
+    },
+    {
+      "id": "da51afadad305af5",
+      "title_ko": "Anthropic, Claude Code Projects 업그레이드로 AI 워커 병렬 실행 지원",
+      "summary_ko": "코디네이터가 질문에 먼저 답하고 채팅에 스레드 상태 갱신 전달",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T09:28:11+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50492141",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T09:28:11+09:00"
+    },
+    {
+      "id": "21ab7432dba474e0",
+      "title_ko": "Claude Meetings",
+      "summary_ko": "Claude의 회의 관련 기능으로 보이는 Claude Meetings 공개",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T07:39:15+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50491097",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T07:39:15+09:00"
+    },
+    {
+      "id": "f0632826eee2438b",
+      "title_ko": "No AI Slop: 선언문",
+      "summary_ko": "AIE Code Summit 2026 연사·참석자가 함께 작성한 선언문 공개",
+      "url": "https://www.slopmanifesto.com/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T04:51:56+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50488769",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T04:51:56+09:00"
+    },
+    {
+      "id": "18188c8ad3a84a54",
+      "title_ko": "Perplexity Decider v1.3: 학습, 평가, 활용 사례",
+      "summary_ko": "Perplexity가 Decider v1.3의 학습 방식과 평가, 활용 사례 소개",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T04:24:47+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50488464",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T04:24:47+09:00"
+    },
+    {
+      "id": "3d3e0a33fa9ece80",
+      "title_ko": "Show HN: Isometric SF – 샌프란시스코 베이 지역 픽셀아트 지도",
+      "summary_ko": "Google 3D Tiles 1300제곱마일을 LoRA 학습 모델로 픽셀 지도로 변환",
+      "url": "https://isometricsf.com/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T02:58:37+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50487228",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T02:58:37+09:00"
+    },
+    {
+      "id": "ea0776201252f8c6",
+      "title_ko": "600번 실험 후 알게 된 JEPA 월드 모델의 특징",
+      "summary_ko": "픽셀 생성 방식 대신 JEPA 월드 모델을 600회 실험해 얻은 결과 공유",
+      "url": "https://haddyalchaer.com/jepa",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T02:55:28+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50487185",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "1b230347dc90ec1d",
+          "title_ko": "600번의 실험으로 알아낸 JEPA 월드 모델의 특성",
+          "url": "https://news.hada.io/topic?id=37130",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-14T02:55:28+09:00"
+    },
+    {
+      "id": "d6f57ed8e4d13470",
+      "title_ko": "OpenAI, 범용 모델이 로봇을 구동하면서 로봇 팀 해체",
+      "summary_ko": "로봇 연구진을 다른 팀으로 재배치, 범용 로봇 개발 방식 전환",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T02:55:23+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50487184",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T02:55:23+09:00"
+    },
+    {
+      "id": "e940fd9875725f16",
+      "title_ko": "AI가 괴델의 노트 해독, 수백 개 증명된 정리 담겼다고 전해져",
+      "summary_ko": "쿠르트 괴델이 속기체로 남긴 1,009쪽 분량 노트를 AI로 해독",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T02:30:10+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50486748",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "688317534238ff90",
+          "title_ko": "AI로 해독한 Gödel의 노트, 증명된 정리 수백 개 담겼다는 연구 결과",
+          "url": "https://news.hada.io/topic?id=37124",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-14T02:30:10+09:00"
+    },
+    {
+      "id": "5f1afeeb96c03bf7",
+      "title_ko": "Google은 왜 AI 없는 학교의 검색을 차단하나? 여러 가설",
+      "summary_ko": "AI를 쓰지 않는 학교에서 Google 검색 접근이 막힌 이유에 대한 여러 가설 소개",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "source": "hn-ai",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-11-14T00:29:10+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50484960",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T00:29:10+09:00"
+    },
+    {
+      "id": "4f5b4ce8cb482577",
+      "title_ko": "Jonathan Blow – AI가 코딩을 해결했다면 왜 내 소프트웨어는 그대로인가 [영상]",
+      "summary_ko": "Jonathan Blow가 AI의 코딩 해결 주장과 소프트웨어 현실의 차이를 짚는 영상",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "source": "hn-ai",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-11-14T00:08:44+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50484658",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T00:08:44+09:00"
+    },
+    {
+      "id": "40e78db6601d46e6",
+      "title_ko": "llama.cpp v1.0.0: 로컬 AI 생태계를 위한 더 탄탄한 기반",
+      "summary_ko": "로컬 AI 구동 라이브러리 llama.cpp의 첫 정식 버전 v1.0.0 출시",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "huggingface",
+      "source_name": "Hugging Face 블로그",
+      "published_at": "2026-11-13T23:05:22+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T23:05:22+09:00"
+    },
+    {
+      "id": "181217127fcfb17e",
+      "title_ko": "일라이 릴리 CEO, Dario Amodei의 터무니없는 의료 주장에 반박",
+      "summary_ko": "일라이 릴리 CEO가 Dario Amodei의 의료 분야 주장에 반박 입장 표명",
+      "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T22:51:27+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50483480",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T22:51:27+09:00"
+    },
+    {
+      "id": "fb927f5c7717aae4",
+      "title_ko": "AI가 작가와 독자 사이의 신뢰를 무너뜨리고 있다",
+      "summary_ko": "AI 확산으로 글을 쓰는 사람과 읽는 사람 사이 신뢰가 약해진다는 주장",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T20:13:46+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50481870",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T20:13:46+09:00"
+    },
+    {
+      "id": "44da454e7900959c",
+      "title_ko": "claude.ai, Claude Code, platform.claude.com 오류 증가",
+      "summary_ko": "Claude 상태 페이지에 3개 서비스의 오류 증가 사고 공지 게시",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T19:18:13+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50481187",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "22bcd83804c6c356",
+          "title_ko": "Claude Is Down",
+          "url": "https://status.claude.com/history",
+          "source_name": "Hacker News AI"
+        },
+        {
+          "id": "7534716dbe1032e3",
+          "title_ko": "claude.ai, Claude Code, platform.claude.com에서 오류 증가",
+          "url": "https://news.hada.io/topic?id=37111",
+          "source_name": "GeekNews"
+        },
+        {
+          "id": "82bcc58437c2c770",
+          "title_ko": "Claude 서비스 장애 발생",
+          "url": "https://news.hada.io/topic?id=37122",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-13T19:18:13+09:00"
+    },
+    {
+      "id": "3e34be39425b02b3",
+      "title_ko": "데이터 인텔리전스 엔지니어의 등장",
+      "summary_ko": "MotherDuck CEO, 에이전트가 기존 업무 대체하는 데이터팀의 향후 역할 분석",
+      "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T18:08:18+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50480480",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T18:08:18+09:00"
+    },
+    {
+      "id": "3dbcade2c7aa5510",
+      "title_ko": "Brave Search API, x402 프로토콜로 에이전트 결제 지원",
+      "summary_ko": "계정·API 키 없이 USDC로 쿼리마다 실시간 결제 가능",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-13T12:08:08+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50477649",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "23f9ef724c31cb56",
+          "title_ko": "Brave Search API, x402 프로토콜을 통한 에이전트 결제 지원",
+          "url": "https://news.hada.io/topic?id=37116",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-13T12:08:08+09:00"
+    },
+    {
+      "id": "13fa5d8f12c76e2c",
+      "title_ko": "시카고 학교들, Google AI 강제 수용보다 검색 포기를 택하겠다",
+      "summary_ko": "Google 교육 부문 부사장이 K-12 학교의 AI 서비스 수용 불가피 언급",
+      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+      "source": "hn-ai",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-11-13T09:38:41+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50476586",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T09:38:41+09:00"
+    },
+    {
+      "id": "5fd094d3aa688ef0",
+      "title_ko": "골드만삭스는 왜 트레이더에게서 클로드 코드를 뺏었을까",
+      "summary_ko": "골드만삭스의 트레이더 대상 AI 코딩 도구 제한 이유와 주간 제품 이슈 3건 정리",
+      "url": "https://yozm.wishket.com/magazine/detail/4037",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "published_at": "2026-11-13T09:00:17+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-13T09:00:17+09:00"
+    }
+  ]
+}
