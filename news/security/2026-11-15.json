@@ -1,0 +1,287 @@
+{
+  "category": "security",
+  "board": "보안 뉴스",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T12:30:02+09:00",
+  "first_generated_at": "2026-11-15T12:30:02+09:00",
+  "items": [
+    {
+      "id": "4b713c55884ae787",
+      "title_ko": "피터팬의 좋은방 구하기 개인정보 유출... 일부 구매내역도",
+      "summary_ko": "두꺼비세상, 11일 외부 침입으로 이름·연락처·이메일 등 유출 공지",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147272",
+      "source": "boannews",
+      "source_name": "보안뉴스",
+      "published_at": "2026-11-15T11:25:32+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-15T11:25:32+09:00"
+    },
+    {
+      "id": "4f0ce258a369f239",
+      "title_ko": "항소법원에 ALPR 검색 시 영장 요구를 청구",
+      "summary_ko": "번호판 자동판독기가 과거 이동 경로를 추적하는 점을 들어 영장 필요성 주장",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-15T11:00:54+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50503255",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-15T11:00:54+09:00"
+    },
+    {
+      "id": "c3551adee5fad83b",
+      "title_ko": "코인원, 고객 상담 수탁사 ‘메타엠’ 해킹으로 개인정보 유출",
+      "summary_ko": "12일 수탁사 서버 무단 접근, 주민번호·계좌번호 등 유출 가능성 공지",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147270",
+      "source": "boannews",
+      "source_name": "보안뉴스",
+      "published_at": "2026-11-15T10:34:03+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-15T10:34:03+09:00"
+    },
+    {
+      "id": "8373ab1601632ea2",
+      "title_ko": "인제대, 학생·교직원 개인정보 유출… 교육부 통보로 인지",
+      "summary_ko": "수업 연계 서버 해킹으로 성명·학번·이메일 등 2만4011건 유출",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147269",
+      "source": "boannews",
+      "source_name": "보안뉴스",
+      "published_at": "2026-11-15T10:08:26+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-15T10:08:26+09:00"
+    },
+    {
+      "id": "97e966a7b8e6f91c",
+      "title_ko": "한국조폐공사 모바일 상품권 ‘착’, 해킹으로 3083명 개인정보 유출",
+      "summary_ko": "비정상 접속으로 성명·계좌번호·CI 등 7종 항목 조회 의심",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147268",
+      "source": "boannews",
+      "source_name": "보안뉴스",
+      "published_at": "2026-11-15T09:47:22+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-15T09:47:22+09:00"
+    },
+    {
+      "id": "02e318e762460632",
+      "title_ko": "알리바바 클라우드에 띄운 AI 해킹 도구... ‘안티폭스’로 AWS 운영 비밀 정보 빼냈다",
+      "summary_ko": "Arctic Wolf, AI 모의해킹 도구 AntiFox의 실제 공격 악용 사례 확인",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147198",
+      "source": "boannews",
+      "source_name": "보안뉴스",
+      "published_at": "2026-11-15T08:25:00+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-15T08:25:00+09:00"
+    },
+    {
+      "id": "15b6fbabb889152f",
+      "title_ko": "CBC 조사 후 LinkedIn·Monster, 가짜 채용공고 1000건 이상 삭제",
+      "summary_ko": "CBC 조사 결과를 계기로 두 구인 플랫폼이 허위 채용공고 대거 삭제",
+      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-15T03:56:47+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50499723",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "a3e6b241b0cca046",
+          "title_ko": "LinkedIn과 Monster, CBC 조사 후 가짜 채용 공고 1,000건 이상 삭제",
+          "url": "https://news.hada.io/topic?id=37186",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-15T03:56:47+09:00"
+    },
+    {
+      "id": "c8d55e521b5b7944",
+      "title_ko": "Lovable 앱, 여권 정보와 20만 건 넘는 비공개 메시지 노출",
+      "summary_ko": "Lovable 프로젝트 159,041개 분석, 로그인 없이 민감 데이터 접근 가능",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-15T02:43:10+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50499017",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "e97e863d87cf6ab8",
+          "title_ko": "Lovable 앱에서 여권 정보와 20만 건 이상의 비공개 메시지 노출",
+          "url": "https://news.hada.io/topic?id=37169",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-15T02:43:10+09:00"
+    },
+    {
+      "id": "e6e5626f44a2794d",
+      "title_ko": "테크 기업들이 프라이버시의 개념을 다시 바꾸려 함",
+      "summary_ko": "스마트 안경·녹음 웨어러블, 기록 대상이 된 비사용자는 거부 수단 없음",
+      "url": "https://news.hada.io/topic?id=37166",
+      "source": "geeknews",
+      "source_name": "GeekNews",
+      "published_at": "2026-11-15T02:33:13+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-15T02:33:13+09:00"
+    },
+    {
+      "id": "85898c0796640ac4",
+      "title_ko": "보안 신호를 강화한 PyPI 프로젝트 페이지 개편 적용",
+      "summary_ko": "PyPI, 릴리스 파일 출처를 확인하는 보안 탭과 재구성한 파일 탭 도입",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-15T00:40:52+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50497892",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "d09cbf34fb535534",
+          "title_ko": "PyPI, 보안 신호를 더 명확히 보여주는 개편된 프로젝트 페이지 공개",
+          "url": "https://news.hada.io/topic?id=37178",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-15T00:40:52+09:00"
+    },
+    {
+      "id": "b02211b1de7e74be",
+      "title_ko": "이탈리아, Android 사용자 데이터 접근 문제로 Meta에 8억 8700만 달러 과징금",
+      "summary_ko": "이탈리아 당국이 Android 사용자 데이터 접근 건으로 Meta에 과징금 부과",
+      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T22:48:06+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50497009",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "baf7a9329e6cc256",
+          "title_ko": "이탈리아, 사진 프라이버시 문제로 Meta에 8억 500만 유로 과징금",
+          "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
+          "source_name": "Hacker News 1면"
+        },
+        {
+          "id": "8cfa486701e4e8cb",
+          "title_ko": "이탈리아, Android 사용자 데이터 접근 문제로 Meta에 8억 8,700만 달러 과징금 부과",
+          "url": "https://news.hada.io/topic?id=37170",
+          "source_name": "GeekNews"
+        },
+        {
+          "id": "50f9018414047806",
+          "title_ko": "메타, 사용자 사진 무단 접근으로 이탈리아서 1.2조 벌금",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217416",
+          "source_name": "AI타임스"
+        }
+      ],
+      "ref_time": "2026-11-14T22:48:06+09:00"
+    },
+    {
+      "id": "f67a5ae71b6ef2be",
+      "title_ko": "테크 기업들, 프라이버시 개념을 또다시 바꾸려 시도",
+      "summary_ko": "Meta·Google 스마트 안경이 주변 사람까지 기록, 프라이버시 영향 확대",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T21:45:45+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50496602",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T21:45:45+09:00"
+    },
+    {
+      "id": "1838248a60d90440",
+      "title_ko": "Project Zero, 보고 90일 후 취약점 공개",
+      "summary_ko": "2021년부터 이어온 90+30 공개 정책을 바꿔 보고 후 90일 시점에 공개",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-14T20:13:17+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50496051",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T20:13:17+09:00"
+    },
+    {
+      "id": "92dc38f975d174fd",
+      "title_ko": "노란우산 정보 유출 정황... 주소·연락처 등",
+      "summary_ko": "중소기업중앙회, 11일 홈페이지 비정상 접근과 주민번호 앞 7자리 등 조회 의심 확인",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147267",
+      "source": "boannews",
+      "source_name": "보안뉴스",
+      "published_at": "2026-11-14T18:16:21+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T18:16:21+09:00"
+    },
+    {
+      "id": "1245b8d59fab8b4f",
+      "title_ko": "몸값 500만달러 요구한 랜섬웨어 조직... 해운회사 머스크, 인수 회사 시스템 데이터 도난 인정",
+      "summary_ko": "WhiteArmor, 옛 LF로지스틱스 시스템 약 100GB 공개 예고하며 비트코인 요구",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147207",
+      "source": "boannews",
+      "source_name": "보안뉴스",
+      "published_at": "2026-11-14T13:50:00+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T13:50:00+09:00"
+    },
+    {
+      "id": "f6178adfb7b092cc",
+      "title_ko": "[디지털 문단속] #10. 지원 끊긴 구형 IP카메라, 사후 점검과 안전 폐기법은?",
+      "summary_ko": "패치 끊긴 홈캠이 영상 불법 중계·DDoS 좀비 기기로 악용되는 사례 소개",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147142",
+      "source": "boannews",
+      "source_name": "보안뉴스",
+      "published_at": "2026-11-14T13:39:00+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T13:39:00+09:00"
+    },
+    {
+      "id": "bdfdbc6e6748a72e",
+      "title_ko": "전 세계 보안기관, 광고 기반 감시 시스템 사용 확인",
+      "summary_ko": "Bloomberg, Penlink의 Webloc 추가 고객 확인",
+      "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+      "source": "hn-security",
+      "source_name": "Hacker News 보안",
+      "published_at": "2026-11-14T11:15:41+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50492950",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-14T11:15:41+09:00"
+    }
+  ]
+}
