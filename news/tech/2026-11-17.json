@@ -1,0 +1,324 @@
+{
+  "category": "tech",
+  "board": "기술 뉴스",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T12:54:43+09:00",
+  "first_generated_at": "2026-11-17T12:54:43+09:00",
+  "items": [
+    {
+      "id": "d45bf1ded811cc80",
+      "title_ko": "깃허브 스타 42만 개 REA로 노션형 블록 에디터 구현해봤다",
+      "summary_ko": "AFFiNE 기능을 REA로 분석해 재구현, 규칙 18개 중 16개 원본과 일치",
+      "url": "https://yozm.wishket.com/magazine/detail/4028",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "published_at": "2026-11-09T09:00:17+09:00",
+      "discussion_url": null,
+      "reminder": true,
+      "first_posted_at": "2026-11-10T12:33:40+09:00",
+      "related": [],
+      "ref_time": "2026-11-17T12:52:58+09:00"
+    },
+    {
+      "id": "01af437af6512847",
+      "title_ko": "Windows 11, 사용 중인 코딩 에이전트·개발자 도구 정보 수집",
+      "summary_ko": "진단 ETW 보고서에 개발자 도구 사용 여부 비트 포함, 역공학으로 확인",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-17T07:58:20+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50524736",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "0c8101c29e8a0231",
+          "title_ko": "Windows 11, 사용하는 코딩 에이전트와 개발 도구 정보를 수집함",
+          "url": "https://news.hada.io/topic?id=37327",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-17T07:58:20+09:00"
+    },
+    {
+      "id": "f9355d356a771bd0",
+      "title_ko": "United Airlines, 광범위한 시스템 장애 발생 밝혀",
+      "summary_ko": "유나이티드항공이 자사 시스템에 대규모 장애가 발생했다고 공지",
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-17T07:14:38+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50524165",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-17T07:14:38+09:00"
+    },
+    {
+      "id": "ae2c27b931ec65bb",
+      "title_ko": "BugMeNot has closed",
+      "summary_ko": "공유 계정 제공 사이트 BugMeNot이 운영을 종료",
+      "url": "https://www.bugmenot.com/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-17T06:32:17+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50523601",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "cebab36c1c9887cb",
+          "title_ko": "BugMeNot 서비스 종료",
+          "url": "https://news.hada.io/topic?id=37311",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-17T06:32:17+09:00"
+    },
+    {
+      "id": "fc35e8978fc69343",
+      "title_ko": "네이티브 Three.js 품질을 AAA 게임 엔진 수준으로 끌어올리려는 도전",
+      "summary_ko": "라이트맵·프로브·SSR 파이프라인을 Three.js와 비교하고 검토 중인 PR 정리",
+      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-17T06:07:43+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50523291",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-17T06:07:43+09:00"
+    },
+    {
+      "id": "3c9943ba4f13e1b6",
+      "title_ko": "카네기멜런대, 컴퓨터과학 강의를 YouTube에 무료 공개",
+      "summary_ko": "Kenneth C. Griffin 컴퓨터과학대 강의 공개, 자율 학습용 강의 자료도 예정",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-17T05:43:36+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50522980",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-17T05:43:36+09:00"
+    },
+    {
+      "id": "962d5b55a0b65f5f",
+      "title_ko": "화학은 사실 기하학이다",
+      "summary_ko": "화학을 기하학의 관점에서 설명하는 글",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-17T05:22:18+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50522643",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-17T05:22:18+09:00"
+    },
+    {
+      "id": "e96b5edb2427422d",
+      "title_ko": "Rust가 개발자로서의 나를 바꿨다",
+      "summary_ko": "Rust를 쓰며 달라진 개발자의 사고방식을 다룬 개인 경험담",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-17T05:16:50+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50522563",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-17T05:16:50+09:00"
+    },
+    {
+      "id": "13f7e0f611d76003",
+      "title_ko": "Bank of America, Chase, U.S. Bank, Wells Fargo, Zelle 장애 보고",
+      "summary_ko": "미국 주요 은행 4곳과 송금 서비스 Zelle에서 동시에 장애 보고",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-17T03:31:30+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50521045",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "baa339bdce6c8024",
+          "title_ko": "Bank of America, Chase, U.S. Bank, Wells Fargo, Zelle에서 서비스 장애 신고",
+          "url": "https://news.hada.io/topic?id=37302",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-17T03:31:30+09:00"
+    },
+    {
+      "id": "0941c8fbd5b20703",
+      "title_ko": "소프트웨어가 시스템 차원에서 무너지고 있다",
+      "summary_ko": "Jimmy Breck-McKye가 블로그에서 소프트웨어 품질 저하 문제를 주장",
+      "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-17T03:17:17+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50520866",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-17T03:17:17+09:00"
+    },
+    {
+      "id": "fd2df089a059d2fb",
+      "title_ko": "태양광 발전 단지에서 양 방목",
+      "summary_ko": "태양광 방목 확산 속, 양 마릿수가 이로운 곤충에 미치는 영향과 농가 수익성 연구",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-17T02:27:46+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50520182",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-17T02:27:46+09:00"
+    },
+    {
+      "id": "048976bfa01b4f9c",
+      "title_ko": "Frame – 31.5인치 컬러 ePaper 디스플레이",
+      "summary_ko": "수제 나무 본체에 31.5인치 풀컬러 전자종이 디스플레이를 얹은 제품",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-17T01:23:22+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50519354",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "89a1cd815dd37201",
+          "title_ko": "Frame - 31.5인치 컬러 전자종이 디스플레이",
+          "url": "https://news.hada.io/topic?id=37304",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-17T01:23:22+09:00"
+    },
+    {
+      "id": "ab7e946914b5f620",
+      "title_ko": "w2rt6byl5nf1opmc-a.com은 대체 뭔가?",
+      "summary_ko": "정체불명 도메인 w2rt6byl5nf1opmc-a.com에 대해 필자도 답을 모른다는 글",
+      "url": "https://jack.cab/blog/siterate",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-16T22:51:38+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50517602",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-16T22:51:38+09:00"
+    },
+    {
+      "id": "d654cfb91fc21273",
+      "title_ko": "Amazon의 할인 착시: \"특가\" 3건 중 1건은 절약 효과 없어, 10건 중 1건은 더 비쌌다",
+      "summary_ko": "Amazon 특가 3분의 1은 절약 효과가 없고 10분의 1은 오히려 비쌌다는 분석",
+      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-16T22:39:07+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50517488",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-16T22:39:07+09:00"
+    },
+    {
+      "id": "f89cd0c3d555933e",
+      "title_ko": "Microsoft, 대규모 이메일 장애 원인으로 7월 수정 패치의 결함 지목",
+      "summary_ko": "7월 코드 변경이 가을 장애를 유발, 롤백 대신 엔지니어들이 패치를 재패치",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-16T22:18:22+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50517321",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "b80dcbd0ebe8fda2",
+          "title_ko": "Microsoft, 대규모 이메일 장애 원인으로 7월 패치에 유입된 소프트웨어 결함 지목",
+          "url": "https://news.hada.io/topic?id=37306",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-16T22:18:22+09:00"
+    },
+    {
+      "id": "291823b431c2fe75",
+      "title_ko": "ThinkPad 전원 버튼의 비밀 코드로 먹통 노트북 되살리기 (2007)",
+      "summary_ko": "Lenovo Thinkpad z61t 구매 경험과 기존 t42보다 가벼운 사용감 소개",
+      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-16T20:39:31+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50516473",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-16T20:39:31+09:00"
+    },
+    {
+      "id": "c44c84674dde2644",
+      "title_ko": "커피하우스와 과학의 부상 [pdf]",
+      "summary_ko": "커피하우스가 과학 발전에 끼친 역할을 다룬 PDF 문서",
+      "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-16T20:03:16+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50516245",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-16T20:03:16+09:00"
+    },
+    {
+      "id": "eac6dda7f5935b37",
+      "title_ko": "“…그리고 증명은 Lean에서 검증됐다”",
+      "summary_ko": "Lean으로 검증한 정리가 옳다는 주장을 어떻게 해석할지 쉽게 설명",
+      "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-16T16:38:19+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50515058",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-16T16:38:19+09:00"
+    },
+    {
+      "id": "c0c1bfd994d10877",
+      "title_ko": "거의 모든 것을 만드는 방법",
+      "summary_ko": "거의 모든 사물을 직접 제작하는 방법 소개",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-16T14:50:37+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50514470",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-16T14:50:37+09:00"
+    },
+    {
+      "id": "8be804d03e5a5a6b",
+      "title_ko": "Debian, 6.1.0-55 커널 업데이트 후 응답 불능",
+      "summary_ko": "Debian에서 6.1.0-55 커널 업데이트 후 시스템이 멈추는 문제 보고",
+      "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-16T13:53:06+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50514180",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-16T13:53:06+09:00"
+    }
+  ]
+}
