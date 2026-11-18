@@ -58,7 +58,7 @@ a:hover { text-decoration: underline; }
 .n-list a:hover { border-color: var(--n-accent-deep); text-decoration: none; }
 
 /* 뉴스 홈 카드 */
-.n-cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 15px; }
+.n-cards { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); gap: 15px; }
 .n-card { background: var(--n-card); border: 1px solid var(--n-line); border-radius: 16px; padding: 22px; }
 .n-card h2 { margin: 0 0 4px; font-size: 20px; letter-spacing: -.03em; }
 .n-card h2 a { display: inline-flex; align-items: center; min-height: 44px; }
@@ -71,6 +71,9 @@ a:hover { text-decoration: underline; }
 .n-footer { background: var(--n-navy); color: #91a6bc; padding: 26px 0; font-size: 12px; }
 .n-footer a { display: inline-flex; align-items: center; min-height: 44px; color: #d5e4f3; font-weight: 800; }
 
+@media (max-width: 960px) {
+  .n-cards { grid-auto-flow: row; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
 @media (max-width: 800px) {
   .n-cards { grid-template-columns: 1fr; }
 }
