@@ -84,3 +84,5 @@ a:hover { text-decoration: underline; }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
 }
+.n-section { margin: 28px 0 12px; font-size: 20px; letter-spacing: -.03em; }
+.n-section:first-child { margin-top: 0; }
