@@ -1,0 +1,357 @@
+{
+  "category": "ai",
+  "board": "AI 뉴스",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T12:55:58+09:00",
+  "first_generated_at": "2026-11-19T12:55:58+09:00",
+  "items": [
+    {
+      "id": "f5701ad9070e3826",
+      "title_ko": "Gemini 4 Neon, Opus 5.5에 견줄 성능으로 추정",
+      "summary_ko": "Carbon 기반 추정 성능은 Opus 5.5 수준, 속도는 초당 127토큰",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T09:29:45+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50554374",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T09:29:45+09:00"
+    },
+    {
+      "id": "a40e08005caca142",
+      "title_ko": "AI 코딩 세션 10개를 동시에 관리하는 개발 워크플로우",
+      "summary_ko": "세션 규칙화와 관제·개발 분리로 주간 PR 머지 29건에서 211건 증가",
+      "url": "https://yozm.wishket.com/magazine/detail/4043",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "published_at": "2026-11-19T09:00:17+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T09:00:17+09:00"
+    },
+    {
+      "id": "909b75797cd1319b",
+      "title_ko": "Anthropic, 기업공개 공모가 확정",
+      "summary_ko": "Anthropic PBC, 클래스 A 보통주 기업공개 공모가 결정",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T08:30:09+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50553843",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T08:30:09+09:00"
+    },
+    {
+      "id": "e2b6407cfa6894d3",
+      "title_ko": "Gemini 4 Neon",
+      "summary_ko": "Gemini 4 시리즈의 새 모델 Neon 소개",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T06:34:07+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50552424",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "7de7e340c4c72786",
+          "title_ko": "Gemini 4 Neon - 복잡한 코딩과 분석에 추론 성능과 효율을 갖춘 AI 모델",
+          "url": "https://news.hada.io/topic?id=37432",
+          "source_name": "GeekNews"
+        },
+        {
+          "id": "6b1c3a3703496825",
+          "title_ko": "구글, 세계 3위 성능 '제미나이 4 네온' 출시…작업 비용 32% 절감",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217546",
+          "source_name": "AI타임스"
+        }
+      ],
+      "ref_time": "2026-11-19T06:34:07+09:00"
+    },
+    {
+      "id": "357d085ae06f4ca2",
+      "title_ko": "Google Gemini의 개인 비서 Tasks 무료 전환",
+      "summary_ko": "6개국에서 무료 제공, 미국부터 신규 기능과 Workspace 연동 강화",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T05:20:17+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50551601",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "baac98d1295a6c08",
+          "title_ko": "Google Gemini의 개인 비서 기능 ‘Tasks’, 이제 무료로 제공",
+          "url": "https://news.hada.io/topic?id=37433",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-19T05:20:17+09:00"
+    },
+    {
+      "id": "70cc8a0a1d314807",
+      "title_ko": "DaisyRose-27B: RL로 Qwen3.8의 Terminal-Bench 4.1 5.6%→12%",
+      "summary_ko": "RadixArk 첫 모델, H200 144장으로 18일간 1,200개 과제 학습",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T04:39:16+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50551046",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "f689168723dc030d",
+          "title_ko": "DaisyRose-27B: 사후 학습 효율의 한계를 넘다",
+          "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+          "source_name": "Hugging Face 블로그"
+        }
+      ],
+      "ref_time": "2026-11-19T04:39:16+09:00"
+    },
+    {
+      "id": "bb5459d8891c4c6f",
+      "title_ko": "Genie 4 출시",
+      "summary_ko": "Google AI Ultra 구독자 대상 Project Genie에서 월드 모델 제공",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T03:49:51+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50550415",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "5c32389a1bcb1f44",
+          "title_ko": "Genie 4, Project Genie에서 이용 가능 - 실시간 세계 수정과 오디오 생성 지원",
+          "url": "https://news.hada.io/topic?id=37431",
+          "source_name": "GeekNews"
+        },
+        {
+          "id": "b67647bffebeb6c7",
+          "title_ko": "구글 '지니 4' 일반에 제공…대화로 가상세계 만드는 AI 에이전트 도입",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217556",
+          "source_name": "AI타임스"
+        }
+      ],
+      "ref_time": "2026-11-19T03:49:51+09:00"
+    },
+    {
+      "id": "0d576c5fe887eecc",
+      "title_ko": "OpenAI 모델로 칩 설계 고도화",
+      "summary_ko": "OpenAI 모델을 활용한 칩 설계 발전 사례 소개",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T02:45:47+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50549493",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T02:45:47+09:00"
+    },
+    {
+      "id": "21efcf41c872beed",
+      "title_ko": "Show HN: Mastra Factory, Mastra 개발에 쓰는 오픈소스 소프트웨어 팩토리",
+      "summary_ko": "지난주 Factory가 PR 238건을 열고 병합, 주간 다운로드 약 400만",
+      "url": "https://news.ycombinator.com/item?id=50548660",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T01:53:42+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50548660",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T01:53:42+09:00"
+    },
+    {
+      "id": "eccc011a6ed5dbde",
+      "title_ko": "\"Anthropic은 안전한 AI 기업이 아니다\" – 연합체, Anthropic 안전성에 이의 제기",
+      "summary_ko": "연합체가 Anthropic의 안전 AI 기업 주장에 이의 제기",
+      "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+      "source": "hn-ai",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-11-19T01:41:22+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50548485",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T01:41:22+09:00"
+    },
+    {
+      "id": "208b7ebb3cea9a1a",
+      "title_ko": "확장 가능한 가격 대비 성능의 신규 모델 7종",
+      "summary_ko": "가격 대비 성능을 내세운 신규 모델 7종 공개",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T01:08:24+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50548021",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T01:08:24+09:00"
+    },
+    {
+      "id": "7222d21645ca449d",
+      "title_ko": "감사 시범에서 AI 에이전트가 KPMG 회계사보다 나은 질문 제시",
+      "summary_ko": "KPMG, 감사 시범에서 AI 에이전트 활용 결과 공개",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "source": "hn-ai",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-11-19T00:49:34+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50547777",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "a89bfa8a5ac62c6f",
+          "title_ko": "AI 에이전트, 감사 실험에서 KPMG 회계사보다 더 나은 질문 던져",
+          "url": "https://news.hada.io/topic?id=37429",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-19T00:49:34+09:00"
+    },
+    {
+      "id": "02dc1ea8c7b4f4e7",
+      "title_ko": "한 번 연결한 MCP, 다른 환경에서도 그대로 쓸 수 있을까? Liner Actions 일주일 사용기",
+      "summary_ko": "한 번 연결로 맥북·웹·폰·Codex에서 재사용, 쓰기 권한은 별도 관리",
+      "url": "https://yozm.wishket.com/magazine/detail/4023",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "published_at": "2026-11-04T09:00:17+09:00",
+      "discussion_url": null,
+      "reminder": true,
+      "first_posted_at": "2026-11-04T15:07:28+09:00",
+      "related": [],
+      "ref_time": "2026-11-19T00:00:17+09:00"
+    },
+    {
+      "id": "7c096c418866081c",
+      "title_ko": "AI 생성 텍스트 시대, 동료 심사는 유지될 수 있을까 [pdf]",
+      "summary_ko": "AI 생성 텍스트가 동료 심사 체계에 미치는 영향 논의",
+      "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-18T22:51:03+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50546312",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-18T22:51:03+09:00"
+    },
+    {
+      "id": "23a6e8d38fa0e0cc",
+      "title_ko": "Energy-Based Reasoners: 추론 효율 385배 향상",
+      "summary_ko": "1.8M 파라미터로 Sudoku-Extreme 99% 이상, FLOPs 345배 절감",
+      "url": "https://energy-based-reasoners.github.io/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-18T18:29:32+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50543989",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "d9bf472544645596",
+          "title_ko": "Energy-Based Reasoners: 추론 효율 385배 향상",
+          "url": "https://news.hada.io/topic?id=37414",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-18T18:29:32+09:00"
+    },
+    {
+      "id": "f1feb2e4bb485c20",
+      "title_ko": "AI가 All About Berlin을 죽이고 있다",
+      "summary_ko": "제작자 작업물이 AI 학습에 쓰인 뒤 그 AI가 제작자 일자리를 대체",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-18T15:47:26+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50542705",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-18T15:47:26+09:00"
+    },
+    {
+      "id": "3229de0d919212c3",
+      "title_ko": "Hugging Face의 의사결정 모델",
+      "summary_ko": "Hugging Face에서 다루는 의사결정 모델 소개, 오픈소스 AI 확산 취지",
+      "url": "https://huggingface.co/blog/decision",
+      "source": "huggingface",
+      "source_name": "Hugging Face 블로그",
+      "published_at": "2026-11-10T09:00:00+09:00",
+      "discussion_url": null,
+      "reminder": true,
+      "first_posted_at": "2026-11-11T12:57:50+09:00",
+      "related": [
+        {
+          "id": "fec0e46ceba430b8",
+          "title_ko": "Transformers 모델 통합 규약",
+          "url": "https://huggingface.co/blog/transformers-mic",
+          "source_name": "Hugging Face 블로그"
+        }
+      ],
+      "ref_time": "2026-11-18T15:00:16+09:00"
+    },
+    {
+      "id": "8a08cadf9fa3263b",
+      "title_ko": "Gemini 4 Carbon은 왜 이렇게 오래 걸리나",
+      "summary_ko": "Opus·Astra가 몇 분에 끝낸 작업에 약 1시간 소요, 실행 단계별 원인 추적",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-18T13:14:04+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50541790",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "c9643920ccfa5f39",
+          "title_ko": "Gemini 4 Carbon은 왜 이렇게 오래 걸릴까?",
+          "url": "https://news.hada.io/topic?id=37411",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-18T13:14:04+09:00"
+    },
+    {
+      "id": "5075ca2a530d7dcf",
+      "title_ko": "비개발 직군에 AI 가드레일 배포할 때 주의할 5가지",
+      "summary_ko": "PO가 접근·연결·실행 범위 중심으로 AI 업무 가드레일을 설계한 경험 5가지 정리",
+      "url": "https://yozm.wishket.com/magazine/detail/4034",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "published_at": "2026-11-10T09:00:17+09:00",
+      "discussion_url": null,
+      "reminder": true,
+      "first_posted_at": "2026-11-11T12:56:09+09:00",
+      "related": [],
+      "ref_time": "2026-11-18T12:56:18+09:00"
+    },
+    {
+      "id": "9ab622ee82f843c3",
+      "title_ko": "Claude, 단백질 서열을 대규모로 학습",
+      "summary_ko": "연구가 덜 된 단백질 대상 테스트에서 최신 Claude만 학습 흔적 확인",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-18T12:47:43+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50541619",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-18T12:47:43+09:00"
+    }
+  ]
+}
