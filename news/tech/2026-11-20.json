@@ -1,0 +1,331 @@
+{
+  "category": "tech",
+  "board": "기술 뉴스",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T12:52:24+09:00",
+  "first_generated_at": "2026-11-20T12:52:24+09:00",
+  "items": [
+    {
+      "id": "ad94344260a0551b",
+      "title_ko": "Vint Cerf가 말하는 TCP/IP가 특허를 받지 않은 이유",
+      "summary_ko": "신규 팟캐스트 Future Stories 첫 회 게스트로 인터넷 설계자 출연",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T10:06:12+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50568861",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-20T10:06:12+09:00"
+    },
+    {
+      "id": "99658be98c831a2c",
+      "title_ko": "Postgres 19 출시, Neon과 Databricks Lakebase에서 사용 가능",
+      "summary_ko": "Postgres 19 공개, Neon·Databricks Lakebase 지원",
+      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T09:37:31+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50568643",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-20T09:37:31+09:00"
+    },
+    {
+      "id": "3bdead74eaa9b1e8",
+      "title_ko": "RegExr: 일시적 오프라인",
+      "summary_ko": "사이트 현대화와 보안 강화를 위해 RegExr 서비스 일시 중단",
+      "url": "https://regexr.com/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T07:27:07+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50567374",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-20T07:27:07+09:00"
+    },
+    {
+      "id": "f454ea635e39d5fb",
+      "title_ko": "로컬 음성 비서 파이프라인 재구축",
+      "summary_ko": "openwakeword를 microwakeword로 교체하고 음성 감지 방식 개선",
+      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T05:57:14+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50566261",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-20T05:57:14+09:00"
+    },
+    {
+      "id": "404bc2ee895c1438",
+      "title_ko": "98% 슬롯머신: 유료 광고는 어떻게 추출세가 되었나",
+      "summary_ko": "광고 경매 낙찰자가 Google·Meta의 무급 이행 하청이 된다는 주장",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T03:35:17+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50564159",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-20T03:35:17+09:00"
+    },
+    {
+      "id": "eddee06eab3b0d54",
+      "title_ko": "바이러스 주사로 환자 3명의 췌장암 진행 멈춰",
+      "summary_ko": "바이러스 주입 치료를 받은 췌장암 환자 3명에서 암 진행 정지 보고",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T02:25:33+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50563066",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "b04df2550f36b935",
+          "title_ko": "바이러스 주사로 환자 3명의 췌장암 진행 멈춰",
+          "url": "https://news.hada.io/topic?id=37488",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-20T02:25:33+09:00"
+    },
+    {
+      "id": "5d7ae07855bb5adc",
+      "title_ko": "Launch HN: Onlook (YC W25) – 디자이너를 위한 오픈소스 개발 도구",
+      "summary_ko": "실제 코드베이스 위에 캔버스를 얹어 에이전트로 디자인하는 데스크톱 앱 공개",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T01:34:04+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50562320",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-20T01:34:04+09:00"
+    },
+    {
+      "id": "59ee1db7d44b2359",
+      "title_ko": "중서부 뉴스를 다루는 Hacker News풍 사이트 Cornhole News 제작",
+      "summary_ko": "커뮤니티 투표로 인기 기사와 링크 순위를 매기는 중서부 뉴스 사이트",
+      "url": "https://cornholenews.news",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T00:38:32+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50561515",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "4c4e12e6fc306599",
+          "title_ko": "Show HN: Cornhole News - Hacker News에서 영감을 받은 미국 중서부 뉴스 사이트",
+          "url": "https://news.hada.io/topic?id=37497",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-20T00:38:32+09:00"
+    },
+    {
+      "id": "7405e856fa9b058d",
+      "title_ko": "생존과 사회 재건에 필요한 모든 것",
+      "summary_ko": "로컬 AI·지도·영상 포함, 설치 후 오프라인 작동하는 무료 오픈소스 생존 라이브러리",
+      "url": "https://lastbook.org/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T23:47:18+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50560822",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T23:47:18+09:00"
+    },
+    {
+      "id": "147a1f49cc1f9b00",
+      "title_ko": "브라우저에서 A4 한 장으로 8쪽 접이식 진 만들기",
+      "summary_ko": "fanzines.app 업데이트, 스프레드 편집·사진 일괄 추가·인쇄 여백 지원",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T22:18:11+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50559719",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T22:18:11+09:00"
+    },
+    {
+      "id": "16f1070cf7c5a80d",
+      "title_ko": "중력을 이용한 차단 불가능한 통신 – Science Advances",
+      "summary_ko": "Science Advances에 실린 중력 기반 통신 관련 연구 논문",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T21:22:00+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50559179",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T21:22:00+09:00"
+    },
+    {
+      "id": "12516b56a5a7fa18",
+      "title_ko": "유럽연합 집행위원회, 직원 4만 명 이상에 Matrix 도입",
+      "summary_ko": "2025년 12월 개념 검증 후 2026년 9월까지 전 직원 노트북에 배포",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T19:58:29+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50558533",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "f963dea1630c32f9",
+          "title_ko": "유럽연합 집행위원회가 직원 4만 명 이상에게 Matrix를 도입한 방법",
+          "url": "https://news.hada.io/topic?id=37473",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-19T19:58:29+09:00"
+    },
+    {
+      "id": "5174c21f9e430e66",
+      "title_ko": "PHP 8.6의 새로운 기능",
+      "summary_ko": "부분 함수 적용, Duration 클래스, Polling API, clamp() 함수 추가",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T18:27:15+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50557870",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "f1cc24a491ec36c9",
+          "title_ko": "PHP 8.5.13",
+          "url": "https://www.php.net/ChangeLog-8.php",
+          "source_name": "Hacker News 1면"
+        }
+      ],
+      "ref_time": "2026-11-19T18:27:15+09:00"
+    },
+    {
+      "id": "43aa16fb77cf37ac",
+      "title_ko": "SSD 가격, 내년 하반기부터 하락 전망",
+      "summary_ko": "SSD는 2027년 하반기부터 완화, 하드디스크는 2028년까지 계약 완료 상태",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T18:05:34+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50557716",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T18:05:34+09:00"
+    },
+    {
+      "id": "205135bc9e660c17",
+      "title_ko": "RAM을 사지 말고 압축하라",
+      "summary_ko": "메모리 부족을 Linux zram 메모리 압축으로 해결한 방법 소개",
+      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T17:56:47+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50557661",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T17:56:47+09:00"
+    },
+    {
+      "id": "aae03f5dc925c9e6",
+      "title_ko": "SQLite 기반 분산 고성능 블롭 스토리지",
+      "summary_ko": "샤딩된 경량 블롭 스토리지 서버 Blobasaur, 고처리량 읽기·쓰기 용도로 개발",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T17:39:45+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50557537",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "1c3a8139b49cac40",
+          "title_ko": "SQLite 기반 분산 고성능 블롭 스토리지",
+          "url": "https://news.hada.io/topic?id=37478",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-19T17:39:45+09:00"
+    },
+    {
+      "id": "044083190196f04d",
+      "title_ko": "[리포트] 국내 FDE 현황 조사 2026: ① 누가, 어디서 와서, 무슨 일을 하나",
+      "summary_ko": "FDE 채용·조직 발표 국내 122곳, 직무 기준 설문에 152명 응답",
+      "url": "https://yozm.wishket.com/magazine/detail/4047",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "published_at": "2026-11-19T16:30:17+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T16:30:17+09:00"
+    },
+    {
+      "id": "fb9b88d4f8015cd5",
+      "title_ko": "VM 한 대에서 웹 서버 1,500만 개 실행 – smoltcp, DPDK, AF_XDP",
+      "summary_ko": "커널 우회로 TCP/IP 스택을 유저랜드로 옮겨 서버 1,500만 개 구동",
+      "url": "https://kapteko.com/15-million-webservers/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T14:56:36+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50556533",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "c62d8d9f0880c32a",
+          "title_ko": "VM 한 대에서 웹 서버 1,500만 개 실행하기: smoltcp, DPDK, AF_XDP",
+          "url": "https://news.hada.io/topic?id=37470",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-19T14:56:36+09:00"
+    },
+    {
+      "id": "a5270ca9c2462b66",
+      "title_ko": "macOS에서 WireGuard 5 Gbit/s까지 끌어올리기",
+      "summary_ko": "패킷 손실 방지용 백프레셔와 패킷별 오버헤드 분산 배칭이 핵심",
+      "url": "https://www.firezone.dev/blog/apple-client-performance",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T08:57:01+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50554076",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T08:57:01+09:00"
+    },
+    {
+      "id": "7534063c1d3cb240",
+      "title_ko": "로봇에게 대리석 조각을 가르쳤다",
+      "summary_ko": "Monumental Labs, 3D 모델로 사람 개입 없이 조각 가공하는 툴패스 시스템",
+      "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-19T02:03:53+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50548808",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-19T02:03:53+09:00"
+    }
+  ]
+}
