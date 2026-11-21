@@ -1,0 +1,323 @@
+{
+  "category": "tech",
+  "board": "기술 뉴스",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T12:56:17+09:00",
+  "first_generated_at": "2026-11-21T12:56:17+09:00",
+  "items": [
+    {
+      "id": "768811664c08d9a9",
+      "title_ko": "Re: Riemann",
+      "summary_ko": "리만을 주제로 한 답신 글, 발췌 없이 제목만 확인",
+      "url": "https://borretti.me/article/re-riemann",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-21T08:42:44+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50583982",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-21T08:42:44+09:00"
+    },
+    {
+      "id": "33b25e2a9362fb30",
+      "title_ko": "Brian May 경, Hera 소행성 탐사에 입체 영상 더하다",
+      "summary_ko": "Queen 기타리스트 Brian May가 Didymos 소행성계를 입체 이미지로 구현",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-21T08:19:44+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50583768",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-21T08:19:44+09:00"
+    },
+    {
+      "id": "adb3f13c617a9000",
+      "title_ko": "내 고양이 화장실 리버스 엔지니어링",
+      "summary_ko": "앱 디컴파일, 서명 HTTP 요청 재현, 4바이트를 다층 바이너리로 패킹",
+      "url": "https://master--ytulsiani.netlify.app/blog/furrytails/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-21T05:07:14+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50581165",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-21T05:07:14+09:00"
+    },
+    {
+      "id": "64e738ae7bbbb30c",
+      "title_ko": "Winedroid – Android 없이 앱 실행 (WASM 데모)",
+      "summary_ko": "브라우저에서 Android APK를 직접 실행하는 WASM 기반 데모",
+      "url": "https://winedroid.soham.sh/demo/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-21T04:30:16+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50580536",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-21T04:30:16+09:00"
+    },
+    {
+      "id": "81fd9565f775e239",
+      "title_ko": "긴급 공지: Alessandro Masullo GRH",
+      "summary_ko": "미국수학회 이사회 회의 중인 작성자가 긴급 사안을 급히 알리는 공지",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-21T03:33:14+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50579568",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "dd73c2fdf466fcf2",
+          "title_ko": "긴급 공지: Alessandro Masullo의 GRH 증명안 공개",
+          "url": "https://news.hada.io/topic?id=37541",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-21T03:33:14+09:00"
+    },
+    {
+      "id": "3c1f8452c0b4a7b5",
+      "title_ko": "Switch 2 한 대에서 PSP 에뮬레이터 두 개 실행, GameShare로 공유",
+      "summary_ko": "C++로 작성한 Switch 2용 PSP 에뮬레이터 ppsspp-nx2 활용 사례",
+      "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-21T02:14:03+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50578233",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-21T02:14:03+09:00"
+    },
+    {
+      "id": "3cc68ecd0e5ccc22",
+      "title_ko": "PostgreSQL 19: 브라우저에서 실행하는 예제로 둘러보기",
+      "summary_ko": "실행 가능한 SQL로 시퀀스 복제·standby 대기 시연, 18 버전 비교 포함",
+      "url": "https://certuvia.com/blog/postgres-19",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-21T02:08:56+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50578117",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-21T02:08:56+09:00"
+    },
+    {
+      "id": "f2509da3bbaa1f8e",
+      "title_ko": "다시는 Framework 하드웨어를 사지 않겠다",
+      "summary_ko": "Laptop 16 초기 불량, 3개월·지원 메일 30건 끝에 결함 없음 판정",
+      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-21T01:06:30+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50576855",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-21T01:06:30+09:00"
+    },
+    {
+      "id": "a2f265bcff149357",
+      "title_ko": "Navier–Stokes 방정식의 유한 시간 블로업",
+      "summary_ko": "Navier–Stokes 방정식 해의 유한 시간 발산을 다룬 GitHub 저장소",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-21T00:34:31+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50576232",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "f171afb8f16c9e73",
+          "title_ko": "비강제 Navier-Stokes 특이점과 일반화 리만 가설",
+          "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+          "source_name": "Hacker News 1면"
+        }
+      ],
+      "ref_time": "2026-11-21T00:34:31+09:00"
+    },
+    {
+      "id": "8ca4060d63f5f127",
+      "title_ko": "iOS에 WebKit 외 브라우저가 아직 없는 이유",
+      "summary_ko": "EU DMA 시행 이후 2024년부터 유럽에서 iPhone용 Firefox 이용 증가",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-21T00:03:31+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50575644",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-21T00:03:31+09:00"
+    },
+    {
+      "id": "6cd75d08ed77618b",
+      "title_ko": "코드를 쓰지 않으면 리뷰 실력도 떨어진다",
+      "summary_ko": "2022년 이전 엔지니어 모두 동의하던 통념이 이후 달라졌다는 문제 제기",
+      "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T21:41:38+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50573886",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-20T21:41:38+09:00"
+    },
+    {
+      "id": "aaf42bcf423c861b",
+      "title_ko": "기술 업계 리더들의 말이 비논리적이고 거슬리는 이유",
+      "summary_ko": "기술 업계 리더들의 발언 방식에 의문을 제기하는 토론 글",
+      "url": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T20:13:05+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50573087",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-20T20:13:05+09:00"
+    },
+    {
+      "id": "dbff0d10d0540e93",
+      "title_ko": "새 도메인으로 알아보는 사람들의 개발 동향",
+      "summary_ko": "신규 제품 기업 27,455곳의 가격·성과·팀 정보를 국가·분야별로 필터링",
+      "url": "https://startups.novumsignals.com/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T18:54:33+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50572448",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-20T18:54:33+09:00"
+    },
+    {
+      "id": "db84930c65baab83",
+      "title_ko": "국내 FDE 지도 2026: FDE는 무슨 일을 할까",
+      "summary_ko": "팔란티어 공고 분석과 함께 FDE를 채용하거나 조직을 밝힌 국내 기업 122곳 정리",
+      "url": "https://yozm.wishket.com/magazine/detail/4031",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "published_at": "2026-11-12T09:00:17+09:00",
+      "discussion_url": null,
+      "reminder": true,
+      "first_posted_at": "2026-11-13T12:57:15+09:00",
+      "related": [],
+      "ref_time": "2026-11-20T15:00:18+09:00"
+    },
+    {
+      "id": "180fc8924bc49da1",
+      "title_ko": "Jujutsu Primer",
+      "summary_ko": "버전 관리 시스템 Jujutsu의 기본 사용법을 짧게 소개",
+      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T14:46:01+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50570628",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-20T14:46:01+09:00"
+    },
+    {
+      "id": "29a935e4b3c7f2e3",
+      "title_ko": "중력을 이용한 차단 불가능한 통신",
+      "summary_ko": "엘리베이터 평형추로 벽돌벽 너머 0.7m에 분당 1비트 전송",
+      "url": "https://news.hada.io/topic?id=37507",
+      "source": "geeknews",
+      "source_name": "GeekNews",
+      "published_at": "2026-11-20T14:33:21+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-20T14:33:21+09:00"
+    },
+    {
+      "id": "e64effe108042ab8",
+      "title_ko": "Google, OEM에 GrapheneOS·부트로더 잠금 해제 지원 중단 압박",
+      "summary_ko": "GrapheneOS 측, Pixel 전용 기능 확대와 OEM 설득 시도 주장",
+      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T14:21:02+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50570479",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-20T14:21:02+09:00"
+    },
+    {
+      "id": "a686a63e57b1187f",
+      "title_ko": "FFmpeg 9.1 'Gauss'",
+      "summary_ko": "2026년 11월 20일 출시, 양자내성 서명 파일 제공",
+      "url": "https://ffmpeg.org/download.html",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T13:02:39+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50569998",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "a3234958edbda9d1",
+          "title_ko": "FFmpeg 9.1 'Gauss' - 멀티미디어 프로젝트의 핵심 구성 요소인 FFmpeg의 최신 안정 릴리스",
+          "url": "https://news.hada.io/topic?id=37521",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-20T13:02:39+09:00"
+    },
+    {
+      "id": "83da806ddbfeccea",
+      "title_ko": "GIMP, UI 테스트 도입",
+      "summary_ko": "사용자처럼 인터페이스를 조작하는 자동 테스트 추가",
+      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T13:00:24+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50569985",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-20T13:00:24+09:00"
+    },
+    {
+      "id": "ce9f48ed34aa7029",
+      "title_ko": "PostgreSQL 19",
+      "summary_ko": "REPACK CONCURRENTLY, pg_plan_advice 등 포함 출시",
+      "url": "https://www.postgresql.org/docs/release/19.0/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-20T12:45:45+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50569890",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "d9c849f6ca9dea24",
+          "title_ko": "PostgreSQL 19 Released",
+          "url": "https://news.hada.io/topic?id=37510",
+          "source_name": "GeekNews"
+        },
+        {
+          "id": "d443ee64066bae94",
+          "title_ko": "PostgreSQL 19 - 읽기와 쓰기를 막지 않는 REPACK, 실행 계획 제어 확장 추가",
+          "url": "https://news.hada.io/topic?id=37517",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-20T12:45:45+09:00"
+    }
+  ]
+}
