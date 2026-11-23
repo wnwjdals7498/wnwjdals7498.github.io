@@ -1,0 +1,344 @@
+{
+  "category": "tech",
+  "board": "기술 뉴스",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T12:48:46+09:00",
+  "first_generated_at": "2026-11-23T12:48:46+09:00",
+  "items": [
+    {
+      "id": "048482af0e5e0d63",
+      "title_ko": "인터넷 아카이브의 잊힌 영상으로 만든 무료 대안 TV 네트워크",
+      "summary_ko": "24시간 동기화 방송 채널로 구성, 케이블 TV 방식 제공",
+      "url": "https://spelunkr.tv",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T10:13:51+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50606192",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T10:13:51+09:00"
+    },
+    {
+      "id": "03cdbed2d5ac48da",
+      "title_ko": "빠른 속도는 디자인 결정이다",
+      "summary_ko": "자동 재생 영상·폰트·캐러셀 등 디자인 요소의 성능 비용 지적",
+      "url": "https://news.hada.io/topic?id=37677",
+      "source": "geeknews",
+      "source_name": "GeekNews",
+      "published_at": "2026-11-23T09:31:02+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T09:31:02+09:00"
+    },
+    {
+      "id": "ae6e6a35191d1707",
+      "title_ko": "Alessandro Masullo 원고의 Lean 형식화 진행 현황 지도",
+      "summary_ko": "원고 Lean 형식화의 진행 상황을 보여주는 지도 페이지",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T08:12:10+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50605045",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "104d1fb28da4897c",
+          "title_ko": "Alessandro Masullo 원고의 Lean 형식화 진행 현황 지도",
+          "url": "https://news.hada.io/topic?id=37678",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-23T08:12:10+09:00"
+    },
+    {
+      "id": "9a1a958a12e8ac9c",
+      "title_ko": "자유를 위한 투쟁: BSD가 AT&T 라이선스에서 벗어난 과정",
+      "summary_ko": "BSD의 AT&T 라이선스 분리 경위를 다룬 역사 글",
+      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T06:33:12+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50604123",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T06:33:12+09:00"
+    },
+    {
+      "id": "5f31db758389d425",
+      "title_ko": "실시간 버스·항공기·선박이 보이는 미니어처 샌프란시스코",
+      "summary_ko": "드래그·확대 가능한 아이소메트릭 지도, 실시간 Muni·BART·페리 표시",
+      "url": "https://smallsf.com/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T05:33:23+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50603589",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "84a0518e029c52be",
+          "title_ko": "실시간 버스, 비행기, 배가 움직이는 미니어처 샌프란시스코",
+          "url": "https://news.hada.io/topic?id=37671",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-23T05:33:23+09:00"
+    },
+    {
+      "id": "5da3c4b89fb71e70",
+      "title_ko": "가장 오래된 인터넷 서비스 제공업체 Nyx",
+      "summary_ko": "가장 오래된 인터넷 접속 사업자 Nyx를 소개하는 글",
+      "url": "https://nyx.net/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T05:15:59+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50603465",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T05:15:59+09:00"
+    },
+    {
+      "id": "c97d8a0ed206ebab",
+      "title_ko": "자동화 시스템 오류로 애틀랜타 경유 델타 항공편 전부 지연",
+      "summary_ko": "자동화 시스템 이상으로 애틀랜타 경유 노선 운항 차질 발생",
+      "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T04:51:46+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50603232",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "6c8b4345530f9c28",
+          "title_ko": "Automated System 장애로 애틀랜타 경유 델타항공 전 항공편 지연",
+          "url": "https://news.hada.io/topic?id=37679",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-23T04:51:46+09:00"
+    },
+    {
+      "id": "a3b886b1bbb10742",
+      "title_ko": "실리콘밸리에 무슨 일이 일어났나",
+      "summary_ko": "고객 중심 혁신에서 주주 자본주의 추출로 전환, AI 붐과 연결",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T04:20:15+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50602947",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T04:20:15+09:00"
+    },
+    {
+      "id": "7a9950a81b5ffc9f",
+      "title_ko": "저녁 식사 자리로 보는 디랙의 정리",
+      "summary_ko": "해밀턴 순환에 관한 디랙의 정리를 시각적으로 증명",
+      "url": "https://prideout.net/blog/dirac-dinner-party/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T03:50:27+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50602660",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T03:50:27+09:00"
+    },
+    {
+      "id": "04153d6b534d9fd5",
+      "title_ko": "소프트웨어는 원래부터 인간에게 너무 복잡했던 걸까?",
+      "summary_ko": "소프트웨어 복잡성이 인간 한계를 넘었는지 묻는 논의",
+      "url": "https://anil.recoil.org/notes/software-too-complex-for-humans",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T02:32:41+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50601823",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T02:32:41+09:00"
+    },
+    {
+      "id": "3809f828d19aef52",
+      "title_ko": "C++26 다시 완료: 2026년 11월 ISO C++ 회의 보고",
+      "summary_ko": "3월 완료 후 재개된 C++26 작업 재완료, 문서 재발행 계획",
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T00:59:59+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50600838",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T00:59:59+09:00"
+    },
+    {
+      "id": "6e784715f54f729a",
+      "title_ko": "Stratum 1 Pi가 아닌 서버로 NTP Pool에 참여",
+      "summary_ko": "스튜디오 Stratum 1 서버에서 시각 받는 Stratum 2 서버 공개",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T00:35:24+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50600622",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "644bc34582cdfdd1",
+          "title_ko": "NTP Pool에 합류했지만, Stratum 1 Pi를 직접 연결하지는 않음",
+          "url": "https://news.hada.io/topic?id=37661",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-23T00:35:24+09:00"
+    },
+    {
+      "id": "2d5462888352c20d",
+      "title_ko": "오픈 소셜 웹 얼라이언스(Open Social Web Alliance)",
+      "summary_ko": "개방형 소셜 웹을 내세운 연합체 Open Social Web Alliance 소개",
+      "url": "https://osw-alliance.net/en/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T00:24:32+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50600511",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "d13d388eac9bdc11",
+          "title_ko": "Open Social Web Alliance - 개방형 소셜 웹의 공동 거버넌스와 인프라 구축을 위한 연합",
+          "url": "https://news.hada.io/topic?id=37648",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-23T00:24:32+09:00"
+    },
+    {
+      "id": "e688c84a13a16c36",
+      "title_ko": "AWS 에뮬레이터로 Terraform 테스트하기",
+      "summary_ko": "AWS 에뮬레이터를 이용한 Terraform 코드 테스트 방법 정리",
+      "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-22T22:00:36+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50599309",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-22T22:00:36+09:00"
+    },
+    {
+      "id": "0ceef4b235ec12c3",
+      "title_ko": "Muru – mod_WSGI 제작자의 AI 지원 Python 앱용 Rust 서버",
+      "summary_ko": "Graham Dumpleton이 만든 Python 웹 앱용 Rust 서버",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-22T18:57:01+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50597959",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-22T18:57:01+09:00"
+    },
+    {
+      "id": "d61d2a998c81af13",
+      "title_ko": "엔지니어링 매니저 역할, 다시 위협받고 있다",
+      "summary_ko": "엔지니어링 매니저 역할이 약화되는 흐름을 짚은 글",
+      "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-22T16:01:00+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50597014",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-22T16:01:00+09:00"
+    },
+    {
+      "id": "d26d10b87f22641b",
+      "title_ko": "이산 푸리에 변환(DFT) 노트",
+      "summary_ko": "이산 푸리에 변환의 내용을 정리한 학습 노트",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-22T15:52:25+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50596960",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-22T15:52:25+09:00"
+    },
+    {
+      "id": "1fd500df4662cd47",
+      "title_ko": "Show HN: 리만 증명 핸드북",
+      "summary_ko": "riemann-lean 리만 가설 증명을 수학 서술로 풀어 PDF·EPUB 공개",
+      "url": "https://github.com/tamnd/riemann-handbook",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-22T14:46:30+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50596664",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "f3529be1a0162a68",
+          "title_ko": "리만 가설 Lean 증명의 검증 파일",
+          "url": "https://news.hada.io/topic?id=37646",
+          "source_name": "GeekNews"
+        },
+        {
+          "id": "e82260b07f043f0a",
+          "title_ko": "Show HN: The Riemann Proof Handbook - 리만 가설의 Lean 증명 코드를 수학으로 풀어 쓴 책",
+          "url": "https://news.hada.io/topic?id=37665",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-22T14:46:30+09:00"
+    },
+    {
+      "id": "3400785e003329cf",
+      "title_ko": "Fast-Anything: 전부 Rust로 다시 쓰지 말고 느린 5%만 재작성",
+      "summary_ko": "Python·Node·Ruby 앱을 프로파일링해 느린 함수만 에이전트로 이식·검증",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-22T13:10:09+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50596155",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "58a7d6c2964a2b7f",
+          "title_ko": "Fast-Anything: 전체를 Rust로 재작성하지 말고, 느린 5%만 재작성하라",
+          "url": "https://news.hada.io/topic?id=37645",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-22T13:10:09+09:00"
+    },
+    {
+      "id": "f549b28c85729bef",
+      "title_ko": "테스트를 위한 더 나은 어휘",
+      "summary_ko": "테스트를 설명하는 용어 체계를 다시 제안하는 글",
+      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-22T07:15:39+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50594182",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-22T07:15:39+09:00"
+    }
+  ]
+}
