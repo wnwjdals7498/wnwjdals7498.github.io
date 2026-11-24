@@ -1,0 +1,331 @@
+{
+  "category": "tech",
+  "board": "기술 뉴스",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T12:52:25+09:00",
+  "first_generated_at": "2026-11-24T12:52:25+09:00",
+  "items": [
+    {
+      "id": "9681fb6ff0a390fe",
+      "title_ko": "경영진과 대화하는 법: 논쟁하기 전에 금액으로 환산하라",
+      "summary_ko": "기술 판단을 설득하려면 가치와 위험을 근거 있는 추정 금액으로 비교 제시",
+      "url": "https://news.hada.io/topic?id=37739",
+      "source": "geeknews",
+      "source_name": "GeekNews",
+      "published_at": "2026-11-24T09:20:02+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-24T09:20:02+09:00"
+    },
+    {
+      "id": "7d89f844fb82c83f",
+      "title_ko": "GraphQL 없이 누리는 GraphQL의 강점",
+      "summary_ko": "Cobalt, TypeScript 리졸버에서 스키마를 추론해 타입 SDK 생성하는 오픈소스",
+      "url": "https://cobalt27.dev/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-24T09:03:59+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50621466",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-24T09:03:59+09:00"
+    },
+    {
+      "id": "58d654632a00b46f",
+      "title_ko": "실제 웹페이지 위에서 디자인을 수정하는 'Design Mode'",
+      "summary_ko": "웹페이지를 시각 편집하고 변경 사항을 코딩 에이전트에 전달하는 확장 프로그램",
+      "url": "https://yozm.wishket.com/magazine/detail/4049",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "published_at": "2026-11-24T09:00:17+09:00",
+      "discussion_url": null,
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-24T09:00:17+09:00"
+    },
+    {
+      "id": "55dd39720b4f64b4",
+      "title_ko": "유력 암흑물질 후보를 찾는 여정",
+      "summary_ko": "WIMP에 지친 물리학자들이 신중한 낙관을 보이나 여러 과제 남아 있음",
+      "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-24T08:12:40+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50620831",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-24T08:12:40+09:00"
+    },
+    {
+      "id": "d5878f2f15b72f81",
+      "title_ko": "Stalwart, 이제 Microsoft Exchange 드롭인 대체 가능",
+      "summary_ko": "1.2.0에서 MAPI·EWS·ActiveSync 지원, Outlook 연결 가능",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-24T07:32:29+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50620349",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "0a3d9308fe439a36",
+          "title_ko": "Stalwart, 이제 Microsoft Exchange를 그대로 대체할 수 있음",
+          "url": "https://news.hada.io/topic?id=37744",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-24T07:32:29+09:00"
+    },
+    {
+      "id": "03d193fe7e4e7d94",
+      "title_ko": "Levent Alpöge, 자신의 리만 가설 증명에 대해 해명",
+      "summary_ko": "25만 쪽 이상이라는 언급은 농담이었다고 밝히고 자신의 실수를 정리",
+      "url": "https://twitter.com/__alpoge__/status/2124987173439209561",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-24T07:22:56+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50620250",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-24T07:22:56+09:00"
+    },
+    {
+      "id": "7e689a2455fd0b6d",
+      "title_ko": "모든 체에서 VP ≠ VNP",
+      "summary_ko": "anthropics/formal-math 저장소에 VP ≠ VNP 증명 논문 공개",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-24T07:09:10+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50620102",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-24T07:09:10+09:00"
+    },
+    {
+      "id": "5a38c81d0fbc2d61",
+      "title_ko": "GPUI, 독립 저장소로 분리",
+      "summary_ko": "Zed 개발사의 Rust용 GPU 가속 오픈소스 UI 프레임워크, 즉시·유지 모드 결합",
+      "url": "https://github.com/zed-industries/gpui",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-24T05:52:54+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50619103",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "c91ea1d425eb589b",
+          "title_ko": "GPUI가 독립 저장소를 갖게 됨",
+          "url": "https://news.hada.io/topic?id=37752",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-24T05:52:54+09:00"
+    },
+    {
+      "id": "1307b302fdbcb507",
+      "title_ko": "다음 게이밍 모니터도 OLED여야 하는 이유",
+      "summary_ko": "LCD에서 OLED로 업그레이드할 가치와 복잡한 패널 기술 종류별 선택법 안내",
+      "url": "https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-24T05:30:46+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50618798",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-24T05:30:46+09:00"
+    },
+    {
+      "id": "e6efe33a083e8a55",
+      "title_ko": "\"ARM 요청으로 이 사이트는 2026년 12월 4일 중단됩니다\"",
+      "summary_ko": "Armv8-A·Armv9-A AArch64 명령어·레지스터 참조 문서 사이트 운영 중단",
+      "url": "https://arm.jonpalmisc.com/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-24T04:17:55+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50617499",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "cfc0e3a8f2981932",
+          "title_ko": "“Arm의 요청에 따라 이 사이트는 2026년 12월 4일 운영을 종료합니다”",
+          "url": "https://news.hada.io/topic?id=37731",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-24T04:17:55+09:00"
+    },
+    {
+      "id": "42afc3642f4faa6a",
+      "title_ko": "Apple, 9년 된 내 오픈소스 앱을 EU 앱스토어에서 삭제",
+      "summary_ko": "macOS·iOS 오픈소스 노트 앱 FSNotes 개발자가 EU 앱스토어 삭제 사실 공개",
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-24T03:48:10+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50616933",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "24bc7f8a79ee7b22",
+          "title_ko": "Apple, 9년간 운영한 내 오픈소스 앱을 EU App Store에서 삭제",
+          "url": "https://news.hada.io/topic?id=37732",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-24T03:48:10+09:00"
+    },
+    {
+      "id": "109d2f6894af143d",
+      "title_ko": "Kagi Mail 공개 (퍼블릭 베타)",
+      "summary_ko": "@kagimail.com 또는 자체 도메인을 쓰는 프라이빗 이메일·캘린더 서비스",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-24T02:17:01+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50615481",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "7b31bdf672aa9bdf",
+          "title_ko": "Kagi Mail 공개 베타 - 개인정보 보호 중심의 이메일과 캘린더 서비스",
+          "url": "https://news.hada.io/topic?id=37728",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-24T02:17:01+09:00"
+    },
+    {
+      "id": "60fd17d3da0d1ed0",
+      "title_ko": "Ladybird, 알파 단계 진입",
+      "summary_ko": "macOS·Linux용 알파 빌드 배포, 버그 감수하고 제보할 초기 사용자 대상",
+      "url": "https://ladybird.org/posts/alpha/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-24T01:13:12+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50614249",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "236088804c40a3f3",
+          "title_ko": "Ladybird 브라우저, 알파 버전 공개",
+          "url": "https://news.hada.io/topic?id=37724",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-24T01:13:12+09:00"
+    },
+    {
+      "id": "b1caefccb46a52ae",
+      "title_ko": "GTA 6 Xbox 실행 파일, cyberleek이 조기 유출",
+      "summary_ko": "cyberleek이 GTA 6의 Xbox용 실행 파일을 예정보다 일찍 공개",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T23:49:44+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50612686",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T23:49:44+09:00"
+    },
+    {
+      "id": "4f7ed590dcadc349",
+      "title_ko": "슈퍼 닌텐도용 무선 네트워크 어댑터 제작",
+      "summary_ko": "컨트롤러 포트에 연결, RetroArch 세이브 동기화·LLM 대사 생성 지원",
+      "url": "https://boland.dev/snet/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T23:16:37+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50611861",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T23:16:37+09:00"
+    },
+    {
+      "id": "b1ae1a6721c668f4",
+      "title_ko": "Win4wine – Wine 위에서 Windows 셸을 Linux 데스크톱으로 실행",
+      "summary_ko": "Windows XP의 Explorer를 Wine 위에서 Linux 데스크톱 셸로 구동",
+      "url": "https://github.com/mikuta0407/win4wine",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T21:28:11+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50610743",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T21:28:11+09:00"
+    },
+    {
+      "id": "677c0e35fb164f1b",
+      "title_ko": "Nospeaker ─ MacBook 트랙패드가 햅틱 모터로 말하게 하기",
+      "summary_ko": "MacBook 트랙패드 햅틱 모터로 말하게 만드는 오픈소스 프로젝트",
+      "url": "https://github.com/os6/nospeaker",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T20:31:54+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50610318",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T20:31:54+09:00"
+    },
+    {
+      "id": "8e7071e9ff9d73d9",
+      "title_ko": "그렇다, Lean 1,700만 줄은 많다",
+      "summary_ko": "리만 가설 증명의 Lean 1,700만 줄을 공개된 Lean 증명 두 모음의 길이와 비교",
+      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T14:00:49+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50607668",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T14:00:49+09:00"
+    },
+    {
+      "id": "8ac5dc3d418a7e00",
+      "title_ko": "C용 부분 평가기",
+      "summary_ko": "C 언어 프로그램을 대상으로 하는 부분 평가기 소개",
+      "url": "https://phoenix.labri.fr/software/tempo/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T13:51:48+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50607627",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T13:51:48+09:00"
+    },
+    {
+      "id": "9452765bbd2c7568",
+      "title_ko": "DeFlock America 페이스북 그룹, '위험 단체'로 정지",
+      "summary_ko": "회원 84만 명 이상 규모의 그룹을 Meta가 정지 조치",
+      "url": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-23T13:31:32+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50607498",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-23T13:31:32+09:00"
+    }
+  ]
+}
