@@ -1,0 +1,324 @@
+{
+  "category": "ai",
+  "board": "AI 뉴스",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T12:54:19+09:00",
+  "first_generated_at": "2026-11-25T12:54:19+09:00",
+  "items": [
+    {
+      "id": "86f67f24e8a381f6",
+      "title_ko": "PenGPT: 손글씨와 스케치를 생성하는 트랜스포머",
+      "summary_ko": "텍스트로 글씨와 스케치를 만드는 소형 모델, 데이터 80% 비중",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-25T09:54:49+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50637056",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-25T09:54:49+09:00"
+    },
+    {
+      "id": "07b4e95a07685fe2",
+      "title_ko": "Working with AI",
+      "summary_ko": "Claude 사용 58개 기업 인터뷰, 해고는 적고 채용은 감소",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "source": "hn-ai",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-11-25T06:07:38+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50634734",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-25T06:07:38+09:00"
+    },
+    {
+      "id": "4530af1ba6c28876",
+      "title_ko": "GPT-6 모델, 고유한 단백질 설계 능력 입증",
+      "summary_ko": "GPT-6 모델이 단백질 설계 능력을 갖춘 것으로 확인",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-25T06:02:22+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50634658",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "de0bcdf5eeee2a89",
+          "title_ko": "GPT-6 모델, 내재적 단백질 설계 능력 입증",
+          "url": "https://news.hada.io/topic?id=37808",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-25T06:02:22+09:00"
+    },
+    {
+      "id": "6014a04f08fa1462",
+      "title_ko": "Launch HN: Versine (YC F26) – 송금·수금용 MCP",
+      "summary_ko": "AI와 대화로 송금·요청, 패스키 승인과 최대 100명 동시 처리",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-25T05:44:15+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50634426",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-25T05:44:15+09:00"
+    },
+    {
+      "id": "ca7efd0c9bb94d77",
+      "title_ko": "Ternary Bonsai 2.5 27B 공개",
+      "summary_ko": "에이전트 코딩·멀티턴 도구 사용 강화, 용량은 5.9GB 유지",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-25T05:08:03+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50633922",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "446b09a706b3dfe5",
+          "title_ko": "Ternary Bonsai 2.5 27B - 5.9GB 크기를 유지하며 에이전트 코딩을 강화한 로컬 AI 모델",
+          "url": "https://news.hada.io/topic?id=37796",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-25T05:08:03+09:00"
+    },
+    {
+      "id": "9b60f3c3da8786c5",
+      "title_ko": "CUDA·Jax에서 TorchTPU로: Cayley 그래프 솔버의 교훈",
+      "summary_ko": "A100·JAX 기반 퍼즐 트랜스포머를 TPU로 이식한 변경점과 속도 비교",
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-25T04:40:43+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50633424",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-25T04:40:43+09:00"
+    },
+    {
+      "id": "4175c83018e7a81b",
+      "title_ko": "MIT 물리학자 \"Anthropic 직원들, 세계 장악 공공연히 언급\"",
+      "summary_ko": "한 물리학자가 Anthropic 직원이 미국 정부 전복을 거론한다고 주장",
+      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-25T02:10:45+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50631210",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-25T02:10:45+09:00"
+    },
+    {
+      "id": "bbef1e94d167ddf6",
+      "title_ko": "Ask HN: Anthropic이 증류 혐의 제기, 결백을 어떻게 증명하나",
+      "summary_ko": "자동 회귀 벤치마크만 썼다는 업체, 24시간 내 소명 요구받아",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-25T01:45:44+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50630809",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "30d100d2fc19ccbf",
+          "title_ko": "Ask HN: Anthropic이 우리 회사가 모델 증류를 한다고 하는데, 아니라는 걸 어떻게 입증할 수 있을까요?",
+          "url": "https://news.hada.io/topic?id=37794",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-25T01:45:44+09:00"
+    },
+    {
+      "id": "4dbaea2697ae6123",
+      "title_ko": "Tidal, AI 생성 음악 금지",
+      "summary_ko": "음악 스트리밍 서비스 Tidal이 AI로 만든 음악을 금지",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-25T01:12:38+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50630309",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "9810ba5804d61807",
+          "title_ko": "Tidal, AI 생성 음악 금지",
+          "url": "https://news.hada.io/topic?id=37788",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-25T01:12:38+09:00"
+    },
+    {
+      "id": "012f29f7ed869cf2",
+      "title_ko": "KL 발산은 음수가 아니다, PyTorch만 빼고",
+      "summary_ko": "8.5백만 입력 검증, F.kl_div의 값·기울기 오차 광범위하게 확인",
+      "url": "https://arxiv.org/abs/2611.30835",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-25T00:50:22+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50629962",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-25T00:50:22+09:00"
+    },
+    {
+      "id": "197dc8b3ac4dbd20",
+      "title_ko": "유휴 컴퓨팅으로 로컬 모델을 학습시키는 엔진",
+      "summary_ko": "sous-labs의 songe, 유휴 연산 자원으로 로컬 모델 학습 지원",
+      "url": "https://github.com/sous-labs/songe",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-25T00:03:40+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50629231",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [
+        {
+          "id": "5a6486998b01ef17",
+          "title_ko": "유휴 컴퓨팅 자원으로 로컬 모델을 학습시키는 엔진",
+          "url": "https://news.hada.io/topic?id=37798",
+          "source_name": "GeekNews"
+        }
+      ],
+      "ref_time": "2026-11-25T00:03:40+09:00"
+    },
+    {
+      "id": "5e57d423bc79ab67",
+      "title_ko": "LLM 에이전트는 사용자가 아닌 모회사를 위해 일한다",
+      "summary_ko": "Claude가 API 우회는 거부하고 YouTube 다운로드는 도운 사례 지적",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "source": "hn-ai",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-11-24T21:40:15+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50627340",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-24T21:40:15+09:00"
+    },
+    {
+      "id": "5c003d30472b094f",
+      "title_ko": "Brendan Gregg의 제단 앞에서 경배하다",
+      "summary_ko": "끝없는 가능성 앞에서 기능을 제한하기 어려운 AI 활용 경험담",
+      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "source": "hn-front",
+      "source_name": "Hacker News 1면",
+      "published_at": "2026-11-24T19:50:14+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50626413",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-24T19:50:14+09:00"
+    },
+    {
+      "id": "fd5ebe6986a044a8",
+      "title_ko": "AI의 제본스 역설: 저렴한 토큰으로는 설비투자 못 메운다",
+      "summary_ko": "Google 토큰 처리량 2년간 330배, 가격도 비슷하게 하락, 투자 5,600억 달러",
+      "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+      "source": "hn-ai",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-11-24T18:39:50+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50625888",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-24T18:39:50+09:00"
+    },
+    {
+      "id": "853b24ff0d6ecd3f",
+      "title_ko": "Hugging Face와 OpenRouter, 오픈 웨이트 모델 실행 쉽게 협력",
+      "summary_ko": "Hugging Face와 OpenRouter가 오픈 웨이트 모델 실행 협력 발표",
+      "url": "https://huggingface.co/blog/openrouter",
+      "source": "huggingface",
+      "source_name": "Hugging Face 블로그",
+      "published_at": "2026-11-16T09:00:00+09:00",
+      "discussion_url": null,
+      "reminder": true,
+      "first_posted_at": "2026-11-17T12:54:41+09:00",
+      "related": [],
+      "ref_time": "2026-11-24T15:00:03+09:00"
+    },
+    {
+      "id": "3d76088cf48c13e4",
+      "title_ko": "AI 시대 현직 개발자의 자기 효능감에 관하여",
+      "summary_ko": "바이브 코딩으로 툴을 만드는 동료들을 보며 자기효능감을 재확인한 게임사 개발자의 글",
+      "url": "https://yozm.wishket.com/magazine/detail/4033",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "published_at": "2026-11-09T14:00:17+09:00",
+      "discussion_url": null,
+      "reminder": true,
+      "first_posted_at": "2026-11-10T12:33:02+09:00",
+      "related": [],
+      "ref_time": "2026-11-24T15:00:03+09:00"
+    },
+    {
+      "id": "31580e16a578bc60",
+      "title_ko": "2인 팀이 AI로 만든 서비스, 유료 사용자 1,600명까지",
+      "summary_ko": "Smooth AI 창업자 2인, ARR 약 27만 달러 달성 과정 인터뷰",
+      "url": "https://yozm.wishket.com/magazine/detail/4041",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "published_at": "2026-11-17T09:00:17+09:00",
+      "discussion_url": null,
+      "reminder": true,
+      "first_posted_at": "2026-11-17T12:54:41+09:00",
+      "related": [],
+      "ref_time": "2026-11-24T15:00:03+09:00"
+    },
+    {
+      "id": "0ad922ef2da2ff73",
+      "title_ko": "팀 작업 흐름에 하네스 연결하기: UI 개발부터 검증·리뷰까지",
+      "summary_ko": "별도 세션이 화면을 직접 조작해 검증하고 PR 상단에 결과를 정리하는 하네스 구축",
+      "url": "https://yozm.wishket.com/magazine/detail/4040",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "published_at": "2026-11-16T14:00:17+09:00",
+      "discussion_url": null,
+      "reminder": true,
+      "first_posted_at": "2026-11-17T12:54:41+09:00",
+      "related": [],
+      "ref_time": "2026-11-24T15:00:03+09:00"
+    },
+    {
+      "id": "9b8ffb980edd9cba",
+      "title_ko": "Declare, 사람과 AI를 위한 UI 언어",
+      "summary_ko": "AI가 수백 줄로 작성하고 컴파일러가 검증하는 네이티브 앱 수준 인터페이스용 언어",
+      "url": "https://davidtemkin.github.io/declarelang/",
+      "source": "hn-ai",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-11-24T11:36:56+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50622854",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-24T11:36:56+09:00"
+    },
+    {
+      "id": "e277391e1ad36281",
+      "title_ko": "Claude Ship",
+      "summary_ko": "Claude Ship이라는 제목의 항목, 상세 설명 없음",
+      "url": "https://claude.com/resources/articles/introducing-claude-ship",
+      "source": "hn-ai",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-11-24T05:14:18+09:00",
+      "discussion_url": "https://news.ycombinator.com/item?id=50618513",
+      "reminder": false,
+      "first_posted_at": null,
+      "related": [],
+      "ref_time": "2026-11-24T05:14:18+09:00"
+    }
+  ]
+}
